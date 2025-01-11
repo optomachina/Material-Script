@@ -1,0 +1,679 @@
+Glass Name,Poisson's Ratio,Thermal Expansion Coefficient,Density (kg/m³),Thermal Conductivity,Other Properties
+H-F4,0,0.000007900000000,2670,,
+H-K9L,0.000000000000000,8.3e-06,2520,,
+H-LAFL5,0,0.000007400000000,3710,,
+H-LAK7,,0.000006000000000,3820,,
+H-LAK4L,0,0.000006300000000,2990,,
+H-QF1,0,0.000009500000000,2550,,
+H-ZF52A,,0.000009200000000,3520,,
+H-ZK9A,0,0.000006400000000,3530,,
+E-FD4,0.256,8.7e-06,3230,0.2256,ND: 1; VD: 2
+S-NPH2,0.249,7e-06,3580,0.969,Elastic Modulus: 9.91E+10; Shear Modulus: 3.9672E+10; Specific Heat: 550; ND:; VD:
+S-NPH1,,0.000008,,0.882000,Elastic Modulus: 89300000768.000000; Poissons Ratio: 0.250000; Shear Modulus: 35719999488.000000; Density: 3290.000000; Specific Heat: 550.000000; ND:; VD:
+S-NBH51,,,3290,,Elastic Modulus in X: 1.097E+011; Poisson's Ration in XY: 0.253; Shear Modulus in XY: 4.3775E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 1.124; Specific Heat: 550
+S-NBH8,,,3190,,Elastic Modulus in X: 1.017E+011; Poisson's Ration in XY: 0.25; Shear Modulus in XY: 4.068E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.052; Specific Heat: 550
+S-NBH5,,,3020,,Elastic Modulus in X: 9.02E+010; Poisson's Ration in XY: 0.248; Shear Modulus in XY: 3.6138E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.965; Specific Heat: 550
+S-NBM51,,0.000006,,0.904000,Elastic Modulus: 81700000000.000000; Poissons Ratio: 0.243000; Shear Modulus: 32864000000.000000; Density: 2930.000000; Specific Heat: 550.000000
+S-FTM16,,,2640,,Elastic Modulus in X: 6.53E+010; Poisson's Ration in XY: 0.238; Shear Modulus in XY: 2.6373E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 0.947; Specific Heat: 550
+S-YGH51,,0.000006,,0.842000,Elastic Modulus: 122200000000.000000; Poissons Ratio: 0.291000; Shear Modulus: 47328000000.000000; Density: 4400.000000; Specific Heat: 550.000000
+S-LAH79,,,5230,,Elastic Modulus in X: 1.255E+011; Poisson's Ration in XY: 0.297; Shear Modulus in XY: 4.8381E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.957; Specific Heat: 550
+S-LAH66,,,4230,,Elastic Modulus in X: 1.219E+011; Poisson's Ration in XY: 0.291; Shear Modulus in XY: 4.7211E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.845; Specific Heat: 550
+S-LAH65,,0.000006,,0.833000,Elastic Modulus: 125800000000.000000; Poissons Ratio: 0.295000; Shear Modulus: 48571000000.000000; Density: 4760.000000; Specific Heat: 550.000000
+S-LAH64,,0.000006000000000,,0.856000,Elastic Modulus: 122400000000.000000; Poissons Ratio: 0.294000; Shear Modulus: 47295000000.000000; Density: 4300.000000; Specific Heat: 550.000000
+S-LAH63,,,4340,,Elastic Modulus in X: 1.121E+011; Poisson's Ration in XY: 0.295; Shear Modulus in XY: 4.3282E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.849; Specific Heat: 550
+S-LAH60,,0.000006,,0.872000,Elastic Modulus: 124800000000.000000; Poissons Ratio: 0.296000; Shear Modulus: 48148000768.000000; Density: 4430.000000; Specific Heat: 550.000000
+S-LAH59,,,5070,,Elastic Modulus in X: 1.25E+011; Poisson's Ration in XY: 0.298; Shear Modulus in XY: 4.8151E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.816; Specific Heat: 550
+S-LAH58,,0.000007,,0.827000,Elastic Modulus: 126800003072.000000; Poissons Ratio: 0.301000; Shear Modulus: 48732000256.000000; Density: 5520.000000; Specific Heat: 550.000000
+S-LAH55,,,4730,,Elastic Modulus in X: 1.249E+011; Poisson's Ration in XY: 0.296; Shear Modulus in XY: 4.8187E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.846; Specific Heat: 550
+S-LAH53,,,4430,,Elastic Modulus in X: 1.127E+011; Poisson's Ration in XY: 0.299; Shear Modulus in XY: 4.338E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.86; Specific Heat: 550
+S-LAH52,,,4410,,Elastic Modulus in X: 1.119E+011; Poisson's Ration in XY: 0.297; Shear Modulus in XY: 4.3138E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.828; Specific Heat: 550
+S-LAH51,,,4400,,Elastic Modulus in X: 1.129E+011; Poisson's Ration in XY: 0.297; Shear Modulus in XY: 4.3524E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.826; Specific Heat: 550
+S-LAM66,0.28,8e-06,3550,1.602,Elastic Modulus: 1.21E+11; Shear Modulus: 4.7266E+10; Specific Heat: 550
+S-LAM61,,,4100,,Elastic Modulus in X: 9.37E+010; Poisson's Ration in XY: 0.29; Shear Modulus in XY: 3.6318E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.732; Specific Heat: 550
+S-LAM60,,,4060,,Elastic Modulus in X: 1.132E+011; Poisson's Ration in XY: 0.294; Shear Modulus in XY: 4.374E+010; Thermal Expansion Coefficient in X: 5e-006; Thermal Conductivity in X: 0.845; Specific Heat: 550
+S-LAM59,,,3770,,Elastic Modulus in X: 1.006E+011; Poisson's Ration in XY: 0.277; Shear Modulus in XY: 3.9389E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.847; Specific Heat: 550
+S-LAM58,,,4000,,Elastic Modulus in X: 9.19E+010; Poisson's Ration in XY: 0.279; Shear Modulus in XY: 3.5927E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.771; Specific Heat: 550
+S-LAM55,,,4220,,Elastic Modulus in X: 9.67E+010; Poisson's Ration in XY: 0.292; Shear Modulus in XY: 3.7423E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.741; Specific Heat: 550
+S-LAM54,,,4080,,Elastic Modulus in X: 1.172E+011; Poisson's Ration in XY: 0.292; Shear Modulus in XY: 4.5356E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.891; Specific Heat: 550
+S-LAM52,,,3950,,Elastic Modulus in X: 9.57E+010; Poisson's Ration in XY: 0.278; Shear Modulus in XY: 3.7441E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.801; Specific Heat: 550
+S-LAM51,,,3790,,Elastic Modulus in X: 1.007E+011; Poisson's Ration in XY: 0.278; Shear Modulus in XY: 3.9397E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.867; Specific Heat: 550
+S-LAM7,,,3810,,Elastic Modulus in X: 9.7E+010; Poisson's Ration in XY: 0.273; Shear Modulus in XY: 3.8099E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.871; Specific Heat: 550
+S-LAM3,,,4250,,Elastic Modulus in X: 8.68E+010; Poisson's Ration in XY: 0.294; Shear Modulus in XY: 3.3539E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.655; Specific Heat: 550
+S-LAM2,,0.000007000000000,,0.698000,Elastic Modulus: 935000000.000000; Poissons Ratio: 0.295000; Shear Modulus: 36100000000.000000; Density: 4320.000000; Specific Heat: 550.000000
+S-LAL61,,,4040,,Elastic Modulus in X: 1.19E+011; Poisson's Ration in XY: 0.291; Shear Modulus in XY: 4.6088E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.861; Specific Heat: 550
+S-LAL59,,,4040,,Elastic Modulus in X: 1.137E+011; Poisson's Ration in XY: 0.293; Shear Modulus in XY: 4.3968E+010; Thermal Expansion Coefficient in X: 5e-006; Thermal Conductivity in X: 0.863; Specific Heat: 550
+S-LAL58,,,4030,,Elastic Modulus in X: 9.28E+010; Poisson's Ration in XY: 0.285; Shear Modulus in XY: 3.6109E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.728; Specific Heat: 550
+S-LAL56,,,3850,,Elastic Modulus in X: 9.11E+010; Poisson's Ration in XY: 0.28; Shear Modulus in XY: 3.5586E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.778; Specific Heat: 550
+S-LAL54,,,3820,,Elastic Modulus in X: 8.77E+010; Poisson's Ration in XY: 0.277; Shear Modulus in XY: 3.4338E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.761; Specific Heat: 550
+S-LAL18,,0.000006,,0.871000,Elastic Modulus: 120400000000.000000; Poissons Ratio: 0.289000; Shear Modulus: 46703000000.000000; Density: 4180.000000; Specific Heat: 550.000000
+S-LAL14,,,3700,,Elastic Modulus in X: 1.118E+011; Poisson's Ration in XY: 0.284; Shear Modulus in XY: 4.3536E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.908; Specific Heat: 550
+S-LAL13,,,3600,,Elastic Modulus in X: 1.073E+011; Poisson's Ration in XY: 0.29; Shear Modulus in XY: 4.1589E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.893; Specific Heat: 550
+S-LAL12,,0.000007,,0.717000,Elastic Modulus: 90999996416.000000; Poissons Ratio: 0.284000; Shear Modulus: 35435999232.000000; Density: 4010.000000; Specific Heat: 550.000000
+S-LAL10,,,3860,,Elastic Modulus in X: 1.061E+011; Poisson's Ration in XY: 0.294; Shear Modulus in XY: 4.0997E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.85; Specific Heat: 550
+S-LAL9,,0.000006,,0.895000,Elastic Modulus: 107500003328.000000; Poissons Ratio: 0.287000; Shear Modulus: 41763999744.000000; Density: 3630.000000; Specific Heat: 550.000000
+S-LAL8,,0.000006,,0.894000,Elastic Modulus: 114000000000.000000; Poissons Ratio: 0.289000; Shear Modulus: 44220000000.000000; Density: 3790.000000; Specific Heat: 550.000000
+S-LAL7,,,3730,,Elastic Modulus in X: 9.58E+010; Poisson's Ration in XY: 0.271; Shear Modulus in XY: 3.7687E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.825; Specific Heat: 550
+S-TIH53,,0.000009,,1.000000,Elastic Modulus: 96000000000.000000; Poissons Ratio: 0.266000; Shear Modulus: 37915000832.000000; Density: 3540.000000; Specific Heat: 550.000000
+S-TIH23,,,3300,,Elastic Modulus in X: 9.22E+010; Poisson's Ration in XY: 0.26; Shear Modulus in XY: 3.6587E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 0.992; Specific Heat: 550
+S-TIH18,,,3070,,Elastic Modulus in X: 8.91E+010; Poisson's Ration in XY: 0.248; Shear Modulus in XY: 3.5696E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.029; Specific Heat: 550
+S-TIH14,,,3170,,Elastic Modulus in X: 8.88E+010; Poisson's Ration in XY: 0.254; Shear Modulus in XY: 3.5407E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 1.027; Specific Heat: 550
+S-TIH13,,,3100,,Elastic Modulus in X: 8.99E+010; Poisson's Ration in XY: 0.249; Shear Modulus in XY: 3.5989E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.034; Specific Heat: 550
+S-TIH11,,,3240,,Elastic Modulus in X: 9.12E+010; Poisson's Ration in XY: 0.255; Shear Modulus in XY: 3.6335E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 1.017; Specific Heat: 550
+S-TIH10,,,3060,,Elastic Modulus in X: 1.024E+011; Poisson's Ration in XY: 0.243; Shear Modulus in XY: 4.1191E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.043; Specific Heat: 550
+S-TIH6,,,3370,,Elastic Modulus in X: 9.309999923E+010; Poisson's Ration in XY: 0.261; Shear Modulus in XY: 3.69149993E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 1.011; Specific Heat: 550
+S-TIH4,,0.000008,,1.010000,Elastic Modulus: 91900000000.000000; Poissons Ratio: 0.254000; Shear Modulus: 36643000000.000000; Density: 3150.000000; Specific Heat: 550.000000
+S-TIH3,,,3110,,Elastic Modulus in X: 9.08E+010; Poisson's Ration in XY: 0.254; Shear Modulus in XY: 3.6204E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.027; Specific Heat: 550
+S-TIH1,,0.000008,,1.018000,Elastic Modulus: 88400000000.000000; Poissons Ratio: 0.247000; Shear Modulus: 35445000000.000000; Density: 3060.000000; Specific Heat: 550.000000
+S-TIM39,,,2920,,Elastic Modulus in X: 8.17E+010; Poisson's Ration in XY: 0.246; Shear Modulus in XY: 3.2785E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 0.988; Specific Heat: 550
+S-TIM35,,,2960,,Elastic Modulus in X: 8.75E+010; Poisson's Ration in XY: 0.238; Shear Modulus in XY: 3.5339E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.049; Specific Heat: 550
+S-TIM28,,0.000008,,1.006000,Elastic Modulus: 85500000000.000000; Poissons Ratio: 0.242000; Shear Modulus: 34420000000.000000; Density: 2980.000000; Specific Heat: 550.000000
+S-TIM27,,,2760,,Elastic Modulus in X: 7.93E+010; Poisson's Ration in XY: 0.236; Shear Modulus in XY: 3.2079E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.035; Specific Heat: 550
+S-TIM25,,,2910,,Elastic Modulus in X: 8.41E+010; Poisson's Ration in XY: 0.236; Shear Modulus in XY: 3.4021E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.046; Specific Heat: 550
+S-TIM22,,,2790,,Elastic Modulus in X: 7.98E+010; Poisson's Ration in XY: 0.238; Shear Modulus in XY: 3.2229E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.024; Specific Heat: 550
+S-TIM8,,,2630,,Elastic Modulus in X: 7.5E+010; Poisson's Ration in XY: 0.231; Shear Modulus in XY: 3.0463E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.034; Specific Heat: 550
+S-TIM5,,,2630,,Elastic Modulus in X: 7.63E+010; Poisson's Ration in XY: 0.233; Shear Modulus in XY: 3.0941E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.04; Specific Heat: 550
+S-TIM3,,,2670,,Elastic Modulus in X: 7.79E+010; Poisson's Ration in XY: 0.229; Shear Modulus in XY: 3.1692E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.044; Specific Heat: 550
+S-TIM2,,0.000008,,1.394000,Elastic Modulus: 77600000000.000000; Poissons Ratio: 0.230000; Shear Modulus: 31545000000.000000; Density: 2690.000000; Specific Heat: 550.000000
+S-TIM1,,,2710,,Elastic Modulus in X: 7.86E+010; Poisson's Ration in XY: 0.234; Shear Modulus in XY: 3.1848E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.043; Specific Heat: 550
+S-TIL27,,,2580,,Elastic Modulus in X: 7.49E+010; Poisson's Ration in XY: 0.217; Shear Modulus in XY: 3.0772E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 1.07; Specific Heat: 550
+S-TIL26,,,2570,,Elastic Modulus in X: 7.39E+010; Poisson's Ration in XY: 0.222; Shear Modulus in XY: 3.0237E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.054; Specific Heat: 550
+S-TIL25,,,2590,,Elastic Modulus in X: 7.53E+010; Poisson's Ration in XY: 0.22; Shear Modulus in XY: 3.0861E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 1.054; Specific Heat: 550
+S-TIL6,,,2500,,Elastic Modulus in X: 6.48E+010; Poisson's Ration in XY: 0.146; Shear Modulus in XY: 2.8272E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.059; Specific Heat: 550
+S-TIL2,,,2520,,Elastic Modulus in X: 6.99E+010; Poisson's Ration in XY: 0.22; Shear Modulus in XY: 2.8648E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.051; Specific Heat: 550
+S-TIL1,,,2540,,Elastic Modulus in X: 7.05E+010; Poisson's Ration in XY: 0.222; Shear Modulus in XY: 2.8846E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 1.039; Specific Heat: 550
+S-PHM53,,,3510,,Elastic Modulus in X: 7.08E+010; Poisson's Ration in XY: 0.285; Shear Modulus in XY: 2.7549E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 0.615; Specific Heat: 550
+S-PHM52,,0.000010,,0.599000,Elastic Modulus: 71500000000.000000; Poissons Ratio: 0.292000; Shear Modulus: 27670000000.000000; Density: 3670.000000; Specific Heat: 550.000000
+S-BAH32,,,3260,,Elastic Modulus in X: 9.04E+010; Poisson's Ration in XY: 0.26; Shear Modulus in XY: 3.5873E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.921; Specific Heat: 550
+S-BAH28,,,3670,,Elastic Modulus in X: 9.11E+010; Poisson's Ration in XY: 0.213; Shear Modulus in XY: 3.7552E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.889; Specific Heat: 550
+S-BAH27,,,3670,,Elastic Modulus in X: 9.36E+010; Poisson's Ration in XY: 0.272; Shear Modulus in XY: 3.6792E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.869; Specific Heat: 550
+S-BAH11,,,3590,,Elastic Modulus in X: 9.29E+010; Poisson's Ration in XY: 0.274; Shear Modulus in XY: 3.646E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.858; Specific Heat: 550
+S-BAH10,,0.000007,,0.902000,Elastic Modulus: 96200000000.000000; Poissons Ratio: 0.273000; Shear Modulus: 37785000000.000000; Density: 3480.000000; Specific Heat: 550.000000
+S-BAM12,,,3180,,Elastic Modulus in X: 9.04E+010; Poisson's Ration in XY: 0.253; Shear Modulus in XY: 3.6073E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.954; Specific Heat: 550
+S-BAM4,,,2910,,Elastic Modulus in X: 7.62E+010; Poisson's Ration in XY: 0.244; Shear Modulus in XY: 3.0627E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.931; Specific Heat: 550
+S-BAM3,,,2750,,Elastic Modulus in X: 7.71E+010; Poisson's Ration in XY: 0.242; Shear Modulus in XY: 3.1039E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.965; Specific Heat: 550
+S-BAL42,,,3190,,Elastic Modulus in X: 8.47E+010; Poisson's Ration in XY: 0.246; Shear Modulus in XY: 3.3989E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.974; Specific Heat: 550
+S-BAL41,,,2780,,Elastic Modulus in X: 8.9E+010; Poisson's Ration in XY: 0.242; Shear Modulus in XY: 3.5829E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.043; Specific Heat: 550
+S-BAL35,,0.000006000000000,,0.915000,Elastic Modulus: 83200000000.000000; Poissons Ratio: 0.250000; Shear Modulus: 33280000000.000000; Density: 3310.000000; Specific Heat: 550.000000
+S-BAL14,,0.000008000000000,,0.967000,Elastic Modulus: 81100000000.000000; Poissons Ratio: 0.240000; Shear Modulus: 32702000000.000000; Density: 2890.000000; Specific Heat: 550.000000
+S-BAL12,,,2750,,Elastic Modulus in X: 7.1E+010; Poisson's Ration in XY: 0.161; Shear Modulus in XY: 3.0577E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 0.982; Specific Heat: 550
+S-BAL11,,,3020,,Elastic Modulus in X: 8.19E+010; Poisson's Ration in XY: 0.237; Shear Modulus in XY: 3.3104E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.974; Specific Heat: 550
+S-BAL3,,,2980,,Elastic Modulus in X: 7.19E+010; Poisson's Ration in XY: 0.249; Shear Modulus in XY: 2.8783E+010; Thermal Expansion Coefficient in X: 1e-005; Thermal Conductivity in X: 0.864; Specific Heat: 550
+S-BAL2,,,2890,,Elastic Modulus in X: 7.27E+010; Poisson's Ration in XY: 0.245; Shear Modulus in XY: 2.9197E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 0.901; Specific Heat: 550
+S-NSL36,,,2460,,Elastic Modulus in X: 6.4E+010; Poisson's Ration in XY: 0.139; Shear Modulus in XY: 2.8095E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.089; Specific Heat: 550
+S-NSL5,,,2490,,Elastic Modulus in X: 6.91E+010; Poisson's Ration in XY: 0.14; Shear Modulus in XY: 3.0307E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.058; Specific Heat: 550
+S-NSL3,,,2480,,Elastic Modulus in X: 7E+010; Poisson's Ration in XY: 0.217; Shear Modulus in XY: 2.8759E+010; Thermal Expansion Coefficient in X: 9e-006; Thermal Conductivity in X: 1.026; Specific Heat: 550
+S-NBH55,0.269,8.2e-006,3490,0.994,Elastic Modulus: 1.053E+011; Shear Modulus: 4.3775E+010; Specific Heat: 550
+S-BSM81,,,3060,,Elastic Modulus in X: 1.057E+011; Poisson's Ration in XY: 0.271; Shear Modulus in XY: 4.1581E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 1.001; Specific Heat: 550
+S-BSM71,,,3740,,Elastic Modulus in X: 8.62E+010; Poisson's Ration in XY: 0.273; Shear Modulus in XY: 3.3857E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.773; Specific Heat: 550
+S-BSM28,,,3230,,Elastic Modulus in X: 8.53E+010; Poisson's Ration in XY: 0.258; Shear Modulus in XY: 3.3903E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.878; Specific Heat: 550
+S-BSM25,,,3500,,Elastic Modulus in X: 9.51E+010; Poisson's Ration in XY: 0.272; Shear Modulus in XY: 3.7382E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.891; Specific Heat: 550
+S-BSM22,,,3240,,Elastic Modulus in X: 8.74E+010; Poisson's Ration in XY: 0.265; Shear Modulus in XY: 3.4545E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.916; Specific Heat: 550
+S-BSM18,,,3690,,Elastic Modulus in X: 8.85E+010; Poisson's Ration in XY: 0.268; Shear Modulus in XY: 3.4897E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.815; Specific Heat: 550
+S-BSM16,,,3590,,Elastic Modulus in X: 8.78E+010; Poisson's Ration in XY: 0.262; Shear Modulus in XY: 3.4786E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.835; Specific Heat: 550
+S-BSM15,,,3600,,Elastic Modulus in X: 8.54E+010; Poisson's Ration in XY: 0.265; Shear Modulus in XY: 3.3755E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.845; Specific Heat: 550
+S-BSM14,,,3430,,Elastic Modulus in X: 8.49E+010; Poisson's Ration in XY: 0.257; Shear Modulus in XY: 3.3771E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.891; Specific Heat: 550
+S-BSM10,,,3600,,Elastic Modulus in X: 8.35E+010; Poisson's Ration in XY: 0.266; Shear Modulus in XY: 3.2978E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.822; Specific Heat: 550
+S-BSM9,,,3220,,Elastic Modulus in X: 8.65E+010; Poisson's Ration in XY: 0.264; Shear Modulus in XY: 3.4217E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.916; Specific Heat: 550
+S-BSM4,,,3570,,Elastic Modulus in X: 8.16E+010; Poisson's Ration in XY: 0.264; Shear Modulus in XY: 3.2253E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 0.836; Specific Heat: 550
+S-BSM2,,,3530,,Elastic Modulus in X: 7.8E+010; Poisson's Ration in XY: 0.264; Shear Modulus in XY: 3.0854E+010; Thermal Expansion Coefficient in X: 6e-006; Thermal Conductivity in X: 0.802; Specific Heat: 550
+S-BSL7,,,2520,,Elastic Modulus in X: 8E+010; Poisson's Ration in XY: 0.205; Shear Modulus in XY: 3.3195E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 1.13; Specific Heat: 550
+S-FSL5,,0.000009000000000,,1.007000,Elastic Modulus: 62300000000.000000; Poissons Ratio: 0.227000; Shear Modulus: 25387000000.000000; Density: 2460.000000; Specific Heat: 550.000000
+S-FPL53,,,3620,,Elastic Modulus in X: 6.910000333E+010; Poisson's Ration in XY: 0.303; Shear Modulus in XY: 2.651600077E+010; Thermal Expansion Coefficient in X: 1.4e-005; Thermal Conductivity in X: 0.857; Specific Heat: 550
+S-FPL52,,,3530,,Elastic Modulus in X: 7.17E+010; Poisson's Ration in XY: 0.299; Shear Modulus in XY: 2.7598E+010; Thermal Expansion Coefficient in X: 1.3e-005; Thermal Conductivity in X: 0.849; Specific Heat: 550
+S-FPL51,,,3620,,Elastic Modulus in X: 7.27E+010; Poisson's Ration in XY: 0.299; Shear Modulus in XY: 2.7983E+010; Thermal Expansion Coefficient in X: 1.3e-005; Thermal Conductivity in X: 0.78; Specific Heat: 550
+PBM2Y,0.223,8.6e-006,3610,0.814,
+BSL7Y,0.207,68,2500,1.182,Tensile Strength: 30000000
+S-FPM3,0.291,1.15e-005,3640,0.805,Elastic Modulus: 8.06E+010
+S-FPM2,0.287,1.17e-05,4170,0.624,Elastic Modulus: 7.5E+10
+S-NBH56,0.249,0.00077,3490,1.12,Elastic Modulus: 1.067E+11
+S-NBH53,0.236,7e-06,3280,1.124,Elastic Modulus: 1.097E+11; Shear Modulus: 4.3775E+10; Specific Heat: 550
+SF6HT,0.244,8e-06,5180,0.673,Elastic Modulus: 5.499999846E+10; Shear Modulus: 2.21099991E+10; Specific Heat: 389
+SF66,,0.000009,,0.530000,Elastic Modulus: 51000000512.000000; Poissons Ratio: 0.258000; Shear Modulus: 20270000128.000000; Density: 6025.000000; Specific Heat: 340.000000
+SF6,,0.000008,,0.673000,Elastic Modulus: 54999998464.000000; Poissons Ratio: 0.244000; Shear Modulus: 22109999104.000000; Density: 5180.000000; Specific Heat: 389.000000
+SF57HHT,,0.000008,,0.620000,Elastic Modulus: 54000001024.000000; Poissons Ratio: 0.248000; Shear Modulus: 21629999104.000000; Density: 5510.000000; Specific Heat: 360.000000
+SF57,,0.000008,,0.620000,Elastic Modulus: 54000001024.000000; Poissons Ratio: 0.248000; Shear Modulus: 21629999104.000000; Density: 5510.000000; Specific Heat: 360.000000
+SF56A,,0.000008,,0.650000,Elastic Modulus: 57000001536.000000; Poissons Ratio: 0.239000; Shear Modulus: 23000000512.000000; Density: 4920.000000; Specific Heat: 410.000000
+SF5,,0.000008,,0.650000,Elastic Modulus: 56000000000.000000; Poissons Ratio: 0.233000; Shear Modulus: 22709999616.000000; Density: 4070.000000; Specific Heat: 410.000000
+SF4,,0.000008,,0.650000,Elastic Modulus: 56000000000.000000; Poissons Ratio: 0.241000; Shear Modulus: 22560000000.000000; Density: 4790.000000; Specific Heat: 410.000000
+SF2,,0.000008,,0.735000,Elastic Modulus: 54999998464.000000; Poissons Ratio: 0.227000; Shear Modulus: 22410000384.000000; Density: 3860.000000; Specific Heat: 498.000000
+SF15,,0.000008,,0.770000,Elastic Modulus: 59999997952.000000; Poissons Ratio: 0.235000; Shear Modulus: 24290000896.000000; Density: 4060.000000; Specific Heat: 440.000000
+SF14,,0.000007,,0.770000,Elastic Modulus: 65000001536.000000; Poissons Ratio: 0.231000; Shear Modulus: 26400000000.000000; Density: 4540.000000; Specific Heat: 440.000000
+SF11,,0.000006,,0.737000,Elastic Modulus: 65999998976.000000; Poissons Ratio: 0.235000; Shear Modulus: 26720000000.000000; Density: 4740.000000; Specific Heat: 431.000000
+SF10,,0.000008,,0.741000,Elastic Modulus: 64000000000.000000; Poissons Ratio: 0.232000; Shear Modulus: 25969999872.000000; Density: 4280.000000; Specific Heat: 465.000000
+SF1,,0.000008,,0.740000,Elastic Modulus: 56000000000.000000; Poissons Ratio: 0.232000; Shear Modulus: 22730000384.000000; Density: 4460.000000; Specific Heat: 465.000000
+P-SK57,,0.000007,,1.010000,Elastic Modulus: 92659998720.000000; Poissons Ratio: 0.249000; Shear Modulus: 37090000896.000000; Density: 3012.000000; Specific Heat: 760.000000
+P-PK67,,0.000006,,0.790000,Elastic Modulus: 90199998464.000000; Poissons Ratio: 0.248000; Shear Modulus: 36139999232.000000; Density: 4236.000000; Specific Heat: 530.000000
+P-PK53,,0.000013,,0.640000,Elastic Modulus: 59370000384.000000; Poissons Ratio: 0.271000; Shear Modulus: 23360000000.000000; Density: 2827.000000; Specific Heat: 770.000000
+P-LASF47,,0.000006,,0.850000,Elastic Modulus: 119560003584.000000; Poissons Ratio: 0.298000; Shear Modulus: 46060000.000000; Density: 4538.000000; Specific Heat: 550.000000
+N-ZK7,,0.000005,,1.042000,Elastic Modulus: 70000001024.000000; Poissons Ratio: 0.214000; Shear Modulus: 28829999104.000000; Density: 2490.000000; Specific Heat: 770.000000
+N-SSK8,,0.000007,,0.840000,Elastic Modulus: 83999997952.000000; Poissons Ratio: 0.251000; Shear Modulus: 33570000896.000000; Density: 3268.000000; Specific Heat: 640.000000
+N-SSK5,,0.000007,,0.810000,Elastic Modulus: 87999995904.000000; Poissons Ratio: 0.278000; Shear Modulus: 34430001152.000000; Density: 3710.000000; Specific Heat: 580.000000
+N-SSK2,,0.000006,,0.810000,Elastic Modulus: 82000003072.000000; Poissons Ratio: 0.261000; Shear Modulus: 32509999104.000000; Density: 3525.000000; Specific Heat: 580.000000
+N-SK5,0.256,5e-06,3300,0.99,Elastic Modulus: 8.399999795E+10; Shear Modulus: 3.344E+10; Specific Heat: 560
+N-SK4,,0.000006,,0.830000,Elastic Modulus: 83999997952.000000; Poissons Ratio: 0.261000; Shear Modulus: 33309999104.000000; Density: 3535.000000; Specific Heat: 570.000000
+N-SK2,0.263,0.000006000000000,3550,0.776,Elastic Modulus: 7.799999693E+010; Shear Modulus: 3.088E+010; Specific Heat: 595
+N-SK16,,0.000006,,0.818000,Elastic Modulus: 89000001536.000000; Poissons Ratio: 0.264000; Shear Modulus: 35209998336.000000; Density: 3580.000000; Specific Heat: 578.000000
+N-SK15,,0.000007,,0.770000,Elastic Modulus: 83999997952.000000; Poissons Ratio: 0.265000; Shear Modulus: 33199998976.000000; Density: 3620.000000; Specific Heat: 570.000000
+N-SK14,,0.000006,,0.851000,Elastic Modulus: 86000001024.000000; Poissons Ratio: 0.261000; Shear Modulus: 34100000768.000000; Density: 3440.000000; Specific Heat: 636.000000
+N-SK11,,0.000006,,1.030000,Elastic Modulus: 79000002560.000000; Poissons Ratio: 0.239000; Shear Modulus: 31879999488.000000; Density: 3080.000000; Specific Heat: 770.000000
+N-SF8,,0.000009,,1.030000,Elastic Modulus: 87999995904.000000; Poissons Ratio: 0.245000; Shear Modulus: 35340001280.000000; Density: 2904.000000; Specific Heat: 770.000000
+N-SF6HT,,0.000009,,0.960000,Elastic Modulus: 92999999488.000000; Poissons Ratio: 0.262000; Shear Modulus: 36849999872.000000; Density: 3369.000000; Specific Heat: 690.000000
+N-SF66,,0.000006,,0.800000,Elastic Modulus: 94900002816.000000; Poissons Ratio: 0.259000; Shear Modulus: 37689999360.000000; Density: 3996.000000; Specific Heat: 540.000000
+N-SF64,,0.000008,,0.980000,Elastic Modulus: 87999995904.000000; Poissons Ratio: 0.245000; Shear Modulus: 35340001280.000000; Density: 2989.000000; Specific Heat: 750.000000
+N-SF6,,0.000010,,0.960000,Elastic Modulus: 92999999488.000000; Poissons Ratio: 0.262000; Shear Modulus: 36849999872.000000; Density: 3369.000000; Specific Heat: 690.000000
+N-SF57HT,,0.000008,,0.990000,Elastic Modulus: 96000000000.000000; Poissons Ratio: 0.260000; Shear Modulus: 38100000768.000000; Density: 3533.000000; Specific Heat: 660.000000
+N-SF57,,0.000008,,0.990000,Elastic Modulus: 96000000000.000000; Poissons Ratio: 0.260000; Shear Modulus: 38100000768.000000; Density: 3533.000000; Specific Heat: 660.000000
+N-SF56,,0.000009,,0.940000,Elastic Modulus: 90999996416.000000; Poissons Ratio: 0.255000; Shear Modulus: 36250001408.000000; Density: 3280.000000; Specific Heat: 700.000000
+N-SF5,,,2858,,Elastic Modulus in X: 8.699999846E+010; Poisson's Ration in XY: 0.237; Shear Modulus in XY: 3.51700009E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1; Specific Heat: 770
+N-SF4,,0.000009,,0.950000,Elastic Modulus: 89999998976.000000; Poissons Ratio: 0.256000; Shear Modulus: 35830001664.000000; Density: 3145.000000; Specific Heat: 760.000000
+N-SF15,,0.000008,,1.040000,Elastic Modulus: 89999998976.000000; Poissons Ratio: 0.243000; Shear Modulus: 36200001536.000000; Density: 2921.000000; Specific Heat: 760.000000
+N-SF14,,0.000009,,1.000000,Elastic Modulus: 88300003328.000000; Poissons Ratio: 0.259000; Shear Modulus: 35070001152.000000; Density: 3118.000000; Specific Heat: 750.000000
+N-SF11,,0.000009,,0.950000,Elastic Modulus: 92000002048.000000; Poissons Ratio: 0.257000; Shear Modulus: 36600000512.000000; Density: 3224.000000; Specific Heat: 710.000000
+N-SF10,,0.000009,,0.960000,Elastic Modulus: 86999998464.000000; Poissons Ratio: 0.252000; Shear Modulus: 34739998720.000000; Density: 3050.000000; Specific Heat: 740.000000
+N-SF1,,0.000009,,1.000000,Elastic Modulus: 89999998976.000000; Poissons Ratio: 0.250000; Shear Modulus: 35999997952.000000; Density: 3025.000000; Specific Heat: 750.000000
+N-PSK53A,,0.000009,,0.640000,Elastic Modulus: 76130000896.000000; Poissons Ratio: 0.288000; Shear Modulus: 26549999616.000000; Density: 3568.000000; Specific Heat: 590.000000
+N-PSK53,,0.000009,,0.990000,Elastic Modulus: 77999996928.000000; Poissons Ratio: 0.288000; Shear Modulus: 30279999488.000000; Density: 3600.000000; Specific Heat: 682.000000
+N-PSK3,,0.000006,,0.990000,Elastic Modulus: 83999997952.000000; Poissons Ratio: 0.226000; Shear Modulus: 34260000768.000000; Density: 2910.000000; Specific Heat: 682.000000
+N-PK52A,,0.000013,,0.730000,Elastic Modulus: 70999998464.000000; Poissons Ratio: 0.298000; Shear Modulus: 27349999616.000000; Density: 3747.000000; Specific Heat: 670.000000
+N-PK51,,0.000012,,0.650000,Elastic Modulus: 73999998976.000000; Poissons Ratio: 0.295000; Shear Modulus: 28569999360.000000; Density: 3855.000000; Specific Heat: 620.000000
+N-LASF9,,0.000008,,0.790000,Elastic Modulus: 108589998080.000000; Poissons Ratio: 0.288000; Shear Modulus: 42149998592.000000; Density: 4410.000000; Specific Heat: 530.000000
+N-LASF45,,0.000009,,1.020000,Elastic Modulus: 115999997952.000000; Poissons Ratio: 0.281000; Shear Modulus: 45279997952.000000; Density: 3626.000000; Specific Heat: 660.000000
+N-LASF44,,0.000006,,0.820000,Elastic Modulus: 124000002048.000000; Poissons Ratio: 0.293000; Shear Modulus: 47950000.000000; Density: 4440.000000; Specific Heat: 530.000000
+N-LASF43,,0.000007,,0.810000,Elastic Modulus: 114000003072.000000; Poissons Ratio: 0.290000; Shear Modulus: 44189999104.000000; Density: 4260.000000; Specific Heat: 550.000000
+N-LASF41,,0.000007,,0.790000,Elastic Modulus: 124000002048.000000; Poissons Ratio: 0.294000; Shear Modulus: 47909998592.000000; Density: 4845.000000; Specific Heat: 490.000000
+N-LASF40,,0.000007,,0.810000,Elastic Modulus: 111000002560.000000; Poissons Ratio: 0.304000; Shear Modulus: 42560000000.000000; Density: 4430.000000; Specific Heat: 550.000000
+N-LASF31A,,0.000008,,0.790000,Elastic Modulus: 125510000640.000000; Poissons Ratio: 0.301000; Shear Modulus: 48240001024.000000; Density: 5510.000000; Specific Heat: 440.000000
+N-LAK9,,0.000006,,0.908000,Elastic Modulus: 109999996928.000000; Poissons Ratio: 0.285000; Shear Modulus: 42800001024.000000; Density: 3510.000000; Specific Heat: 649.000000
+N-LAK8,,0.000006,,0.840000,Elastic Modulus: 115000000512.000000; Poissons Ratio: 0.289000; Shear Modulus: 44609998848.000000; Density: 3749.000000; Specific Heat: 620.000000
+N-LAK7,0.277,7e-06,3840,0.74,Elastic Modulus: 8.999999898E+10; Shear Modulus: 3.524000154E+10; Specific Heat: 530
+N-LAK34,,0.000007,,0.820000,Elastic Modulus: 117000003584.000000; Poissons Ratio: 0.290000; Shear Modulus: 45349998592.000000; Density: 4020.000000; Specific Heat: 520.000000
+N-LAK33A,,0.000007,,0.810000,Elastic Modulus: 121000001536.000000; Poissons Ratio: 0.292000; Shear Modulus: 46829998080.000000; Density: 4216.000000; Specific Heat: 550.000000
+N-LAK22,,0.000007,,0.880000,Elastic Modulus: 89999998976.000000; Poissons Ratio: 0.266000; Shear Modulus: 35549999104.000000; Density: 3768.000000; Specific Heat: 550.000000
+N-LAK21,,0.000008,,0.880000,Elastic Modulus: 90999996416.000000; Poissons Ratio: 0.272000; Shear Modulus: 35769999360.000000; Density: 3740.000000; Specific Heat: 590.000000
+N-LAK14,,0.000009,,0.860000,Elastic Modulus: 111000002560.000000; Poissons Ratio: 0.283000; Shear Modulus: 33770000384.000000; Density: 3630.000000; Specific Heat: 640.000000
+N-LAK12,,0.000009,,0.860000,Elastic Modulus: 86999998464.000000; Poissons Ratio: 0.288000; Shear Modulus: 33770000384.000000; Density: 4100.000000; Specific Heat: 640.000000
+N-LAK10,,0.000007,,0.860000,Elastic Modulus: 115999997952.000000; Poissons Ratio: 0.286000; Shear Modulus: 45099999232.000000; Density: 3689.000000; Specific Heat: 640.000000
+N-LAF7,,0.000008,,0.830000,Elastic Modulus: 96000000000.000000; Poissons Ratio: 0.271000; Shear Modulus: 37769998336.000000; Density: 3730.000000; Specific Heat: 620.000000
+N-LAF36,,0.000007,,0.790000,Elastic Modulus: 109999996928.000000; Poissons Ratio: 0.305000; Shear Modulus: 42149998592.000000; Density: 4431.000000; Specific Heat: 540.000000
+N-LAF35,,0.000006,,0.800000,Elastic Modulus: 108999999488.000000; Poissons Ratio: 0.301000; Shear Modulus: 41890000896.000000; Density: 4115.000000; Specific Heat: 570.000000
+N-LAF34,,0.000007,,0.560000,Elastic Modulus: 122999996416.000000; Poissons Ratio: 0.292000; Shear Modulus: 47600001024.000000; Density: 4240.000000; Specific Heat: 800.000000
+N-LAF33,,0.000007,,0.800000,Elastic Modulus: 111000002560.000000; Poissons Ratio: 0.301000; Shear Modulus: 42659999744.000000; Density: 4360.000000; Specific Heat: 570.000000
+N-LAF3,,0.000009,,0.830000,Elastic Modulus: 95000002560.000000; Poissons Ratio: 0.286000; Shear Modulus: 36940001280.000000; Density: 4140.000000; Specific Heat: 550.000000
+N-LAF21,,0.000007,,0.830000,Elastic Modulus: 124000002048.000000; Poissons Ratio: 0.295000; Shear Modulus: 47879999488.000000; Density: 4281.000000; Specific Heat: 550.000000
+N-LAF2,,0.000009,,0.670000,Elastic Modulus: 93999996928.000000; Poissons Ratio: 0.288000; Shear Modulus: 36489998336.000000; Density: 4295.000000; Specific Heat: 510.000000
+N-KZFS8,,0.000009,,1.050000,Elastic Modulus: 102719995904.000000; Poissons Ratio: 0.248000; Shear Modulus: 41150001152.000000; Density: 3204.000000; Specific Heat: 760.000000
+N-KZFS4,0.241,0.000007300000000,3000,0.84,Elastic Modulus: 7.799999693E+10; Shear Modulus: 3.143000064E+10; Specific Heat: 760; Tensile Strength: 7000000; Yield Strength: 7000000
+N-KZFS2,,0.000005,,0.810000,Elastic Modulus: 65999998976.000000; Poissons Ratio: 0.266000; Shear Modulus: 26069999616.000000; Density: 2552.000000; Specific Heat: 830.000000
+N-KZFS11,,0.000008,,0.810000,Elastic Modulus: 79000002560.000000; Poissons Ratio: 0.251000; Shear Modulus: 31569999872.000000; Density: 3196.000000; Specific Heat: 690.000000
+N-KF9,,0.000011,,1.040000,Elastic Modulus: 65999998976.000000; Poissons Ratio: 0.225000; Shear Modulus: 26940000256.000000; Density: 2499.000000; Specific Heat: 860.000000
+N-K5,0.224,0.000008200000000,2590,0.95,Elastic Modulus: 7.099999846E+010; Shear Modulus: 2.899999949E+010; Specific Heat: 783
+N-FK51A,,0.000015,,0.760000,Elastic Modulus: 80999997440.000000; Poissons Ratio: 0.293000; Shear Modulus: 31320000512.000000; Density: 3675.000000; Specific Heat: 690.000000
+N-FK5,,0.000010,,0.925000,Elastic Modulus: 62000001024.000000; Poissons Ratio: 0.232000; Shear Modulus: 25159999488.000000; Density: 2450.000000; Specific Heat: 808.000000
+N-F2,,0.000009,,1.050000,Elastic Modulus: 82000003072.000000; Poissons Ratio: 0.228000; Shear Modulus: 33390000128.000000; Density: 2651.000000; Specific Heat: 810.000000
+N-BK7,0.206,8e-06,2510,1.114,Elastic Modulus: 8.2E+10; Shear Modulus: 3.4E+10; Specific Heat: 858
+N-BK10,,0.000007,,1.320000,Elastic Modulus: 70999998464.000000; Poissons Ratio: 0.203000; Shear Modulus: 29510000640.000000; Density: 2390.000000; Specific Heat: 810.000000
+N-BASF64,,0.000009,,0.940000,Elastic Modulus: 105000001536.000000; Poissons Ratio: 0.264000; Shear Modulus: 41529999360.000000; Density: 3200.000000; Specific Heat: 660.000000
+N-BASF2,,0.000008,,0.940000,Elastic Modulus: 83999997952.000000; Poissons Ratio: 0.247000; Shear Modulus: 33679998976.000000; Density: 3151.000000; Specific Heat: 660.000000
+N-BALF5,,0.000008,,1.050000,Elastic Modulus: 80999997440.000000; Poissons Ratio: 0.214000; Shear Modulus: 33359998976.000000; Density: 2614.000000; Specific Heat: 810.000000
+N-BALF4,,0.000007,,0.850000,Elastic Modulus: 76999999488.000000; Poissons Ratio: 0.245000; Shear Modulus: 30919999488.000000; Density: 3111.000000; Specific Heat: 690.000000
+N-BAK4,0.24,0.000007000000000,3046,0.88,Elastic Modulus: 7.699999949E+010; Shear Modulus: 3.105000038E+010; Specific Heat: 680
+N-BAK2,,0.000009,,0.920000,Elastic Modulus: 70999998464.000000; Poissons Ratio: 0.233000; Shear Modulus: 28789999616.000000; Density: 2860.000000; Specific Heat: 690.000000
+N-BAK1,,0.000009,,0.795000,Elastic Modulus: 73000001536.000000; Poissons Ratio: 0.252000; Shear Modulus: 29149999104.000000; Density: 3190.000000; Specific Heat: 687.000000
+N-BAF52,,0.000008,,0.960000,Elastic Modulus: 86000001024.000000; Poissons Ratio: 0.237000; Shear Modulus: 34759999488.000000; Density: 3045.000000; Specific Heat: 680.000000
+N-BAF51,,0.000009,,0.670000,Elastic Modulus: 90999996416.000000; Poissons Ratio: 0.262000; Shear Modulus: 36050000.000000; Density: 3333.000000; Specific Heat: 840.000000
+N-BAF4,,0.000008,,1.020000,Elastic Modulus: 85000003584.000000; Poissons Ratio: 0.231000; Shear Modulus: 34520000.000000; Density: 2889.000000; Specific Heat: 740.000000
+N-BAF3,,0.000008,,1.040000,Elastic Modulus: 82000003072.000000; Poissons Ratio: 0.226000; Shear Modulus: 33440000000.000000; Density: 2792.000000; Specific Heat: 760.000000
+N-BAF10,,0.000007,,0.780000,Elastic Modulus: 89000001536.000000; Poissons Ratio: 0.271000; Shear Modulus: 35009998848.000000; Density: 3745.000000; Specific Heat: 560.000000
+LLF1,0.208,0.000008100000000,2940,0.866,Elastic Modulus: 5.999999795E+010; Shear Modulus: 2.48299991E+010; Specific Heat: 650
+LF5,,0.000009,,0.866000,Elastic Modulus: 59000000512.000000; Poissons Ratio: 0.223000; Shear Modulus: 24120000512.000000; Density: 3220.000000; Specific Heat: 657.000000
+LAFN7,,0.000005,,0.770000,Elastic Modulus: 80000000000.000000; Poissons Ratio: 0.280000; Shear Modulus: 31249999872.000000; Density: 4380.000000; Specific Heat: 636.000000
+KZFSN5,,0.000006,,0.766000,Elastic Modulus: 65000001536.000000; Poissons Ratio: 0.275000; Shear Modulus: 25489999872.000000; Density: 3460.000000; Specific Heat: 636.000000
+KZFSN4,,0.000005,,0.766000,Elastic Modulus: 59999997952.000000; Poissons Ratio: 0.275000; Shear Modulus: 23530000384.000000; Density: 3200.000000; Specific Heat: 636.000000
+KZFS12,,0.000005,,0.710000,Elastic Modulus: 65999998976.000000; Poissons Ratio: 0.279000; Shear Modulus: 25799999488.000000; Density: 3836.000000; Specific Heat: 540.000000
+K7,,0.000010,,1.120000,Elastic Modulus: 69000003584.000000; Poissons Ratio: 0.214000; Shear Modulus: 28419999744.000000; Density: 2530.000000; Specific Heat: 770.000000
+K10,,0.000007,,1.120000,Elastic Modulus: 65000001536.000000; Poissons Ratio: 0.190000; Shear Modulus: 27310000128.000000; Density: 2520.000000; Specific Heat: 770.000000
+F5,,0.000009,,0.768000,Elastic Modulus: 57999998976.000000; Poissons Ratio: 0.220000; Shear Modulus: 23769999360.000000; Density: 3470.000000; Specific Heat: 553.000000
+F4,,0.000009,,0.768000,Elastic Modulus: 56000000000.000000; Poissons Ratio: 0.222000; Shear Modulus: 22909999104.000000; Density: 3580.000000; Specific Heat: 553.000000
+SF57HT,,,5510,,Elastic Modulus in X: 5.400000102E+010; Poisson's Ration in XY: 0.248; Shear Modulus in XY: 2.16299991E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 0.62; Specific Heat: 360
+F2,,0.000009,,0.780000,Elastic Modulus: 57000001536.000000; Poissons Ratio: 0.220000; Shear Modulus: 23360000000.000000; Density: 3599.000000; Specific Heat: 557.000000
+BK7-G18,,,2510,,Elastic Modulus in X: 8.2E+010; Poisson's Ration in XY: 0.206; Shear Modulus in XY: 3.4E+010; Thermal Expansion Coefficient in X: 8e-006; Thermal Conductivity in X: 1.114; Specific Heat: 858
+P-SF67,0,6.2e-06,4240,,Specific Heat: 530
+N-SF2,0.231,0.000006700000000,2720,1.14,Elastic Modulus: 8.6E+10; Shear Modulus: 3.5E+10; Specific Heat: 790
+B270,0.219,0.000009400000000,2550,,Elastic Modulus: 7.15E+010; Shear Modulus: 2.93E+010
+N-KZFS5,0.243,6.4e-006,3041,0.95,Elastic Modulus: 2000000000; Specific Heat: 730
+Titanium Grade 12,,0.000005,,24.900000,Elastic Modulus: 102731903363.667450; Poissons Ratio: 0.330000; Shear Modulus: 41023813759.316872; Density: 4511.825740; Specific Heat: 460.000000; Tensile Strength: 619838799.489510; Yield Strength: 479875199.604782
+T.B.D,,0.000044,,163.300000,Elastic Modulus: 399895999670.651860; Poissons Ratio: 0.280000; Shear Modulus: 155821544699.254000; Density: 19292.899025; Specific Heat: 134.000000; Tensile Strength: 979055723.331596; Yield Strength: 751528689.036225
+CDA BRASS ALLOY 360,,0.000018,,110.000000,Elastic Modulus: 99999997952.000000; Poissons Ratio: 0.330000; Shear Modulus: 36999999488.000000; Density: 8500.000000; Specific Heat: 390.000000; Tensile Strength: 478412992.000000; Yield Strength: 239688992.000000
+CDA COPPER ALLOY 145,,,8900,,Elastic Modulus in X: 1.099999969E+011; Poisson's Ration in XY: 0.37; Shear Modulus in XY: 4E+010; Thermal Expansion Coefficient in X: 2.4e-005; Thermal Conductivity in X: 390; Specific Heat: 390; Tensile Strength in X: 394380000; Yield Strength: 258646000
+TUNGSTEN,,0.000044,,163.300000,Elastic Modulus: 399895999670.651860; Poissons Ratio: 0.280000; Shear Modulus: 155821544699.254000; Density: 19292.899025; Specific Heat: 134.000000; Tensile Strength: 979055723.331596; Yield Strength: 751528689.036225
+TITANIUM GRADE 5 (Ti-6Al-4V),0.33,0.000008600000000,4428.786003,6.7,Elastic Modulus: 1.137634954E+011; Shear Modulus: 4.398855155E+010; Specific Heat: 526.3; Tensile Strength: 903213205.8; Compressive Strength: 861844662; Yield Strength: 827370875.5
+AlBeMet,,,2071.011055,,Elastic Modulus in X: 1.930532043E+011; Poisson's Ration in XY: 0.17; Shear Modulus in XY: 8.204761183E+010; Thermal Expansion Coefficient in X: 13.91; Thermal Conductivity in X: 210; Specific Heat: 1560; Tensile Strength in X: 446780272.8; Yield Strength: 321985165.7
+COPPER ALLOY UNS C10100,,,8900,,Elastic Modulus in X: 1.099999969E+011; Poisson's Ration in XY: 0.37; Shear Modulus in XY: 4E+010; Thermal Expansion Coefficient in X: 0.000017000000000; Thermal Conductivity in X: 390; Specific Heat: 390; Tensile Strength in X: 394380000; Yield Strength: 258646000
+"COPPER ALLOY, OXYGEN-FREE, UNS C10200, H04 TEMPER",0.31,0.000017000000000,8940,391,Elastic Modulus: 1.15E+011; Shear Modulus: 4.4E+010; Specific Heat: 385; Tensile Strength: 310000000; Yield Strength: 275000000
+CARPENTER KOVAR ALLOY,0.317,5.86,8360,17.3,Elastic Modulus: 138000000; Shear Modulus: 51700000; Specific Heat: 439; Tensile Strength: 517000000; Yield Strength: 345000000
+LEAD,0.42,2.916e-005,11348.76413,33,Elastic Modulus: 1.399635731E+010; Shear Modulus: 4902172438; Specific Heat: 128.7; Tensile Strength: 17995316.54
+AIR,,0.000009,,1.007000,Elastic Modulus: 62300000256.000000; Poissons Ratio: 0.227000; Shear Modulus: 25489999872.000000; Density: 1.287116; Specific Heat: 595.000000
+NOTHING,,,0.000000000100000,,
+1145-H18 ALUMINUM,0.33,2.36e-005,2700,227,Elastic Modulus: 6.9E+010; Shear Modulus: 2.6E+010; Specific Heat: 904; Tensile Strength: 145000000; Yield Strength: 115000000
+2011 ALUMINUM,0.33,0.000023100000000,2820,152,Elastic Modulus: 7E+010; Shear Modulus: 2.6E+010; Specific Heat: 864; Tensile Strength: 275000000; Yield Strength: 125000000
+2011-T3 ALUMINUM,0.33,0.000022900000000,2830,151,Elastic Modulus: 7.03E+010; Shear Modulus: 2.6E+010; Specific Heat: 880; Tensile Strength: 379000000; Yield Strength: 296000000
+2024-T351 ALUMINUM,,,2767.991252,,Elastic Modulus in X: 7.308444132E+010; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 2.799271998E+010; Thermal Expansion Coefficient in X: 2.322e-005; Thermal Conductivity in X: 121; Specific Heat: 875.0412; Tensile Strength in X: 468843585.8; Yield Strength: 324053654.9
+2024-T4 ALUMINUM,,,2780,,Elastic Modulus in X: 7.24E+010; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 2.8E+010; Thermal Expansion Coefficient in X: 2.32e-005; Thermal Conductivity in X: 120; Specific Heat: 875; Tensile Strength in X: 470000000; Yield Strength: 325000000
+2024-T6 ALUMINUM,,,2767.991252,,Elastic Modulus in X: 7.239496546E+010; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 2.702745377E+010; Thermal Expansion Coefficient in X: 2.322e-005; Thermal Conductivity in X: 151; Specific Heat: 875.0412; Tensile Strength in X: 426785558.3; Yield Strength: 344737930.8
+3003 ALUMINUM,,0.000024,,170.000000,Elastic Modulus: 69000003584.000000; Poissons Ratio: 0.330000; Shear Modulus: 25999998976.000000; Density: 2700.000000; Specific Heat: 1300.000000; Tensile Strength: 124084000.000000; Yield Strength: 55148500.000000
+6061-T6 ALUMINUM,0.33,0.000023400000000,2700.001083,170,Elastic Modulus: 6.899998632E+10; Shear Modulus: 2.599999684E+10; Specific Heat: 896; Tensile Strength: 310000000; Yield Strength: 275000000
+6061-T651 ALUMINUM,0.33,0.000023600000000,2700,170,Elastic Modulus: 6.900000358E+010; Shear Modulus: 2.599999898E+010; Specific Heat: 1300; Tensile Strength: 124084000; Yield Strength: 55148500
+6061-T6511 ALUMINUM,0.33,2.36e-05,2700.001083,170,Elastic Modulus: 6.899998632E+10; Shear Modulus: 2.599999684E+10; Specific Heat: 1300; Tensile Strength: 310000000; Yield Strength: 275000000
+6063 ALUMINUM,,0.000024,,170.000000,Elastic Modulus: 69000003584.000000; Poissons Ratio: 0.330000; Shear Modulus: 25999998976.000000; Density: 2700.000000; Specific Heat: 1300.000000; Tensile Strength: 124084000.000000; Yield Strength: 55148500.000000
+7075-T6 ALUMINUM,,,2810,,Elastic Modulus in X: 7.17E+010; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 2.599999898E+010; Thermal Expansion Coefficient in X: 2.4e-005; Thermal Conductivity in X: 170; Specific Heat: 1300; Tensile Strength in X: 524000000; Yield Strength: 462000000
+7075-T73 ALUMINUM,0.33,0.000021600000000,2810,155,Elastic Modulus: 7.2E+010; Shear Modulus: 2.69E+010; Specific Heat: 960; Tensile Strength: 505000000; Yield Strength: 435000000
+ALPASE K100-S ALUMINUM,0.33,2.376e-005,2657.271602,140.189535,Elastic Modulus: 71016000.15; Tensile Strength: 282685049.1; Yield Strength: 124105631.3
+MIC6 ALUMINUM,,0.000013000000000,,142.000000,Elastic Modulus: 71016013734.615753; Poissons Ratio: 0.330000; Shear Modulus: 27000012631.556309; Density: 2700.001083; Specific Heat: 900.000000; Tensile Strength: 165474206.760270; Yield Strength: 103421379.225169
+7075-T7351 ALUMINUM BAR,0.33,2.16e-005,2800,155,Elastic Modulus: 7.1E+010; Shear Modulus: 2.69E+010; Specific Heat: 960; Tensile Strength: 434000000; Compressive Strength: 7.24E+010; Yield Strength: 435000000
+ALUMINUM,0.33,,2700.001083,,Elastic Modulus: 6.899998632E+010
+15-5 PH STAINLESS STEEL,,10.8,7800,17.9,Tensile Strength: 1441004275
+17-4 PH STAINLESS STEEL,0.3,11.9,7750.375488,24.700001,Elastic Modulus: 1.999479931E+011; Shear Modulus: 7.722129818E+010; Specific Heat: 515; Tensile Strength: 999739968; Yield Strength: 710160128
+17-4 PH 1150 SS,0.3,11.9,7750.375488,24.700001,Elastic Modulus: 1.999479931E+011; Shear Modulus: 7.722129818E+010; Specific Heat: 515; Tensile Strength: 999739968; Yield Strength: 710160128
+17-7 PH STAINLESS STEEL,,0.000006,,24.700001,Elastic Modulus: 199947993088.000000; Poissons Ratio: 0.300000; Shear Modulus: 77221298176.000000; Density: 7750.375488; Specific Heat: 515.000000; Tensile Strength: 999739968.000000; Yield Strength: 710160128.000000
+18-8 STAINLESS STEEL,,0.000006,,24.700001,Elastic Modulus: 199947993088.000000; Poissons Ratio: 0.300000; Shear Modulus: 77221298176.000000; Density: 7750.375488; Specific Heat: 515.000000; Tensile Strength: 999739968.000000; Yield Strength: 710160128.000000
+300 SERIES STAINLESS STEEL,,,8000,,Elastic Modulus in X: 2000000000; Poisson's Ration in XY: 0.394; Shear Modulus in XY: 318900000; Thermal Conductivity in X: 0.2256; Specific Heat: 1386; Tensile Strength in X: 30000000
+302 STAINLESS STEEL,,,7999.494629,,Elastic Modulus in X: 7.101601382E+010; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 7.722129818E+010; Thermal Expansion Coefficient in X: 9.6e-005; Thermal Conductivity in X: 142; Specific Heat: 900; Tensile Strength in X: 619838784; Yield Strength: 239937600; 300 SERIES STAINLESS STEEL:
+303 STAINLESS STEEL,,0.000096,,142.000000,Elastic Modulus: 71016013824.000000; Poissons Ratio: 0.330000; Shear Modulus: 77221296488.125870; Density: 7999.494718; Specific Heat: 900.000000; Tensile Strength: 619838799.489510; Yield Strength: 239937599.802391
+304 STAINLESS STEEL,,0.000096,,142.000000,Elastic Modulus: 71016013824.000000; Poissons Ratio: 0.330000; Shear Modulus: 77221298176.000000; Density: 7999.494629; Specific Heat: 900.000000; Tensile Strength: 619838784.000000; Yield Strength: 239937600.000000
+304N STAINLESS STEEL,,,8000,,Elastic Modulus in X: 1.93E+011; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 318900000; Thermal Expansion Coefficient in X: 18.9; Thermal Conductivity in X: 0.2256; Specific Heat: 500; Tensile Strength in X: 620000000; Yield Strength: 330000000
+316 STAINLESS STEEL,,,8000,,Elastic Modulus in X: 1.93E+011; Poisson's Ration in XY: 0.285; Shear Modulus in XY: 7.7E+010; Thermal Expansion Coefficient in X: 1.6e-005; Thermal Conductivity in X: 16.3; Specific Heat: 500; Tensile Strength in X: 580000000; Yield Strength: 250000000
+400 SERIES S.S,,0.000096,,142.000000,Elastic Modulus: 71016013824.000000; Poissons Ratio: 0.330000; Shear Modulus: 77221298176.000000; Density: 7999.494629; Specific Heat: 900.000000; Tensile Strength: 619838784.000000; Yield Strength: 239937600.000000
+410 STAINLESS STEEL,,,7805.73533,,Elastic Modulus in X: 1.999479998E+011; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 7.722129649E+010; Thermal Expansion Coefficient in X: 9.9e-006; Thermal Conductivity in X: 24.9; Specific Heat: 460; Tensile Strength in X: 1525120606; Yield Strength: 1225198606
+416 STAINLESS STEEL,,,7800,,Elastic Modulus in X: 2E+011; Poisson's Ration in XY: 0.33; Shear Modulus in XY: 8.3E+010; Thermal Expansion Coefficient in X: 9.9e-006; Thermal Conductivity in X: 24.9; Specific Heat: 460; Tensile Strength in X: 515000000; Yield Strength: 275000000
+430 SERIES STAINLESS STEEL,0.28,0.000010500000000,7800,27,Elastic Modulus: 1.999999481E+011; Shear Modulus: 6.499997967E+010; Specific Heat: 490; Tensile Strength: 475000514.4; Compressive Strength: 289993491.9; Yield Strength: 274997394.8
+440 STAINLESS STEEL,,0.000096,,142.000000,Elastic Modulus: 71016013824.000000; Poissons Ratio: 0.330000; Shear Modulus: 77221298176.000000; Density: 7999.494629; Specific Heat: 900.000000; Tensile Strength: 619838784.000000; Yield Strength: 239937600.000000
+440C STAINLESS STEEL,0.283,0.000010200000000,7805.73533,24.2,Elastic Modulus: 2.04084816E+011; Shear Modulus: 8.411603901E+010; Specific Heat: 460; Tensile Strength: 758423302.6; Yield Strength: 450227651.4
+455 STAINLESS STEEL,,0.000006,,24.700000,Elastic Modulus: 199947999835.325930; Poissons Ratio: 0.300000; Shear Modulus: 77221296488.125870; Density: 7750.375505; Specific Heat: 515.000000; Tensile Strength: 999739999.176630; Yield Strength: 710160137.346158
+"AISI 1018 STEEL, COLD DRAWN",,,7861.095155,,Elastic Modulus in X: 2.047742917E+011; Poisson's Ration in XY: 0.29; Shear Modulus in XY: 7.997918464E+010; Thermal Conductivity in X: 51.9; Specific Heat: 485.669; Tensile Strength in X: 439885515.5; Yield Strength: 370248466.8
+AISI 4150 STEEL,,0.000006,,24.700001,Elastic Modulus: 199947993088.000000; Poissons Ratio: 0.300000; Shear Modulus: 77221298176.000000; Density: 7750.375488; Specific Heat: 515.000000; Tensile Strength: 999739968.000000; Yield Strength: 710160128.000000
+INVAR-36,0.29,0.000001300000000,8049.318359,11.1,Elastic Modulus: 1.475478344E+011; Shear Modulus: 7.722129818E+010; Specific Heat: 515; Tensile Strength: 448000736; Yield Strength: 275997184
+SUPER INVAR 32-5,0.29,8.4e-007,8137.89,10,Elastic Modulus: 1.45E+011; Specific Heat: 502.416; Tensile Strength: 482633010.7; Yield Strength: 275790291.8
+CARBON STEEL,0.28,0.13E-4,,43.,Elastic Modulus: 0.21E+12; Shear Modulus: 0.79E+11; Density: 0.78E+04; Specific Heat: 0.44E+03; Tensile Strength: 3.99826E+8; Yield Strength: 2.20594E+8; Financial Impact: 0.614 USD/kg
+ASTM A36 STEEL,0.26,1.5e-05,7861.095155,47,Elastic Modulus: 1.999479616E+11; Shear Modulus: 7.928970891E+10; Specific Heat: 420; Tensile Strength: 420507000; Yield Strength: 250279689.9
+BOROSILICATE,,0.000003,,1.200000,Elastic Modulus: 62750000000.000000; Poissons Ratio: 0.200000; Shear Modulus: 28085999616.000000; Density: 2180.000000; Specific Heat: 821.000000
+CAF2,0.261,9e-06,3180,1.011,Elastic Modulus: 6.5E+10; Shear Modulus: 2.549E+10; Specific Heat: 595; NDNOM: 12345 SOMETHINGS
+CORNING 7056,,0.000005,,0.895000,Elastic Modulus: 6400000000.000000; Poissons Ratio: 0.210000; Shear Modulus: 2700000000.000000; Density: 2290.000000; Specific Heat: 830.000000
+FUSED SILICA,0.24,5.1e-007,2200,1.64,Elastic Modulus: 9.099999642E+010; Shear Modulus: 2.808599962E+010; Specific Heat: 821; Yield Strength: 48000000
+NG-1,,,,,Elastic modulus: 0.20E+10; Poissons ratio: 0.394; Shear modulus: 0.3189E+09; Density: 0.102E+04; Thermal conductivity: 0.2256; Specific heat: 0.1386E+04; Tensile strength: 0.30E+08
+PYREX,,0.000007,,1.640000,Elastic Modulus: 90999996416.000000; Poissons Ratio: 0.278000; Shear Modulus: 28085999616.000000; Density: 3710.000000; Specific Heat: 574.000000
+SAPPHIRE,0.24,0.000007000000000,2200,1.64,Elastic Modulus: 9.099999642E+010; Shear Modulus: 2.808599962E+010; Specific Heat: 821
+SILICON,,0.000009,,1.011000,Elastic Modulus: 65000001536.000000; Poissons Ratio: 0.261000; Shear Modulus: 25489999872.000000; Density: 3370.000000; Specific Heat: 595.000000
+UG-1,,0.000007,,1.114000,Elastic Modulus: 90999996416.000000; Poissons Ratio: 0.206000; Shear Modulus: 28085999616.000000; Density: 2770.000000; Specific Heat: 858.000000
+ULE,,0.000000,,1.310000,Elastic Modulus: 6770000000.000000; Poissons Ratio: 0.176000; Shear Modulus: 26200000000.000000; Density: 22000.000000; Specific Heat: 766.000000
+ZERODUR,0.243,0,2530,1.46,Elastic Modulus: 9.0321338E+010; Shear Modulus: 8.2047631E+010; Specific Heat: 820; Tensile Strength: 564680700; Yield Strength: 250279740
+ZIRCONIA,,0.000012,,1.675000,Elastic Modulus: 200000000000.000000; Poissons Ratio: 0.220000; Shear Modulus: 90407002112.000000; Density: 5680.001088; Specific Heat: 877.960022; Tensile Strength: 172340000.000000; Compressive Strength: 551489984.000000
+BOROFLOAT,,,2180,,Elastic Modulus in X: 6.275E+010; Poisson's Ration in XY: 0.2; Shear Modulus in XY: 2.808599962E+010; Thermal Expansion Coefficient in X: 3e-006; Thermal Conductivity in X: 1.2; Specific Heat: 821; QUARTZ:
+QUARTZ,,,2180,,Elastic Modulus in X: 0.000000000000000; Poisson's Ration in XY: 0.2; Shear Modulus in XY: 0.000000000000000; Thermal Expansion Coefficient in X: 3e-006; Thermal Conductivity in X: 1.2; Specific Heat: 821
+SUPRASIL,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7E+010; Shear Modulus: 0; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+SUPRASIL 312 ,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7E+010; Shear Modulus: 0; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+KBr,0.138,,2753,,
+SODA LIME FLOAT GLASS,0.23,8.3e-006,2530,0.937,Elastic Modulus: 7.2E+010; Specific Heat: 880
+SUPRASIL 2 GRADE A,0.17,,2200,1.38,Elastic Modulus: 70000; Tensile Strength: 50; Compressive Strength: 1150
+UV FUSED SILICA,0.24,,2200,1.38,Elastic Modulus: 9.099999642E+10; Shear Modulus: 3.1E+10; Specific Heat: 770; Tensile Strength: 5.4E+10
+AMTIR-1,,,,64.000000,Elastic Modulus: 130000000000.000000; Poissons Ratio: 0.300000; Shear Modulus: 50000000000.000000; Density: 4400.000000; Specific Heat: 321.900000; Tensile Strength: 30000000.000000
+CLEARTRAN (ZnS),,,,27.200000,Elastic Modulus: 74500000000.000000; Poissons Ratio: 0.280000; Shear Modulus: 318900000000000.000000; Density: 4090.000000; Specific Heat: 515.000000; Tensile Strength: 30000000000000.000000
+GERMANIUM,,0.000002300000000,,1.640000,Elastic Modulus: 91000000000.000000; Poissons Ratio: 0.240000; Shear Modulus: 28086000000.000000; Density: 5300.000000; Specific Heat: 821.000000
+ZINC SELENIDE,,0.000007000000000,,16.000000,Elastic Modulus: 70326500000.000000; Poissons Ratio: 0.280000; Shear Modulus: 28086000000.000000; Density: 5264.000000; Specific Heat: 339.000000
+SUPRASIL 312,,,2200,,Elastic Modulus in X: 9.1E+010; Poisson's Ration in XY: 0.24; Shear Modulus in XY: 2.8086E+010; Thermal Expansion Coefficient in X: 7e-006; Thermal Conductivity in X: 1.64; Specific Heat: 821
+INFRASIL 301,0.394,,1020,0.2256,Elastic Modulus: 2000000000; Shear Modulus: 318900000; Specific Heat: 1386; Tensile Strength: 30000000
+INFRASIL 302,,,,,Elastic modulus: 0.20E+10; Poissons ratio: 0.394; Shear modulus: 0.3189E+09; Density: 0.102E+04; Thermal conductivity: 0.2256; Specific heat: 0.1386E+04; Tensile strength: 0.30E+08
+NYLON 6/6,,,1134.88,,Elastic Modulus in X: 1310004137; Poisson's Ration in XY: 0.41; Shear Modulus in XY: 44815931; Thermal Conductivity in X: 0.26; Specific Heat: 1670; Tensile Strength in X: 3998599.97
+PMMA,,,,0.370000,Elastic Modulus: 3100006144.000000; Poissons Ratio: 0.385900; Shear Modulus: 2620004352.000000; Density: 1419.979492; Specific Heat: 1470.000000; Tensile Strength: 68999936.000000
+REXOLITE,,,,0.370000,Elastic Modulus: 3100006144.000000; Poissons Ratio: 0.385900; Shear Modulus: 2620004352.000000; Density: 1419.979492; Specific Heat: 1470.000000; Tensile Strength: 68999936.000000
+ACRYLIC,,,,0.370000,Elastic Modulus: 3100006144.000000; Poissons Ratio: 0.385900; Shear Modulus: 2620004352.000000; Density: 1419.979492; Specific Heat: 1470.000000; Tensile Strength: 68999936.000000
+POLYCARBONATE,,,1419.98,,Elastic Modulus in X: 3100006144; Poisson's Ration in XY: 0.3859; Shear Modulus in XY: 2620004352; Thermal Conductivity in X: 0.37; Specific Heat: 1470; Tensile Strength in X: 68999936
+OIL FILLED NYLON,,,,0.370000,Elastic Modulus: 3100006144.000000; Poissons Ratio: 0.410000; Shear Modulus: 89631864.000000; Density: 1431.051514; Specific Heat: 1470.000000; Tensile Strength: 86184480.000000
+VESPEL,,,,0.370000,Elastic Modulus: 3100006144.000000; Poissons Ratio: 0.410000; Shear Modulus: 89631864.000000; Density: 1431.051514; Specific Heat: 1470.000000; Tensile Strength: 86184480.000000
+BLACK DELRIN,,,1419.979512,,Elastic Modulus in X: 3100006200; Poisson's Ration in XY: 0.3859; Shear Modulus in XY: 2620004340; Thermal Conductivity in X: 0.37; Specific Heat: 1470; Tensile Strength in X: 68999938
+ARTUS PLASTIC SHIM STOCK,,,,0.225600,Elastic Modulus: 1999997105.249385; Poissons Ratio: 0.394000; Shear Modulus: 318899822.840807; Density: 1019.999240; Specific Heat: 1386.000000; Tensile Strength: 29999991.052534
+ULTEM 1000  BLK,,,1270,,Elastic Modulus in X: 3510000000; Poisson's Ration in XY: 0.3; Thermal Expansion Coefficient in X: 5.58e-005; Thermal Conductivity in X: 0.22; Tensile Strength in X: 110000000; Yield Strength: 165000000
+ZEONNEX E48R,,,1010,,Elastic Modulus in X: 2500000000; Poisson's Ration in XY: 0.3; Shear Modulus in XY: 2620004352; Thermal Expansion Coefficient in X: 7e-005; Tensile Strength in X: 71000000
+DELRIN 150 NC010,0,,1420,,Elastic Modulus: 2900000000; Tensile Strength: 3100000000
+TEFLON FEP FILM,,1,2150,0.195,Elastic Modulus: 480000000; Specific Heat: 1172; Tensile Strength: 21; Yield Strength: 12000000
+POLYLACTIC ACID (PLA) BIOPOLYMER,0.36,,1251.5,0.111,Elastic Modulus: 3500000000; Shear Modulus: 1287000000; Specific Heat: 1590; Tensile Strength: 59000000; Yield Strength: 70000000
+BUNA-N,,,989.9388553,,Tensile Strength in X: 6205282.754
+SILICONE 70,,,,,Elastic modulus: 0.20E+10; Poissons ratio: 0.394; Shear modulus: 0.3189E+09; Density: 0.102E+04; Thermal conductivity: 0.2256; Specific heat: 0.1386E+04; Tensile strength: 0.30E+08
+DYMAX OP-29,,,1050,,Elastic Modulus in X: 241316505.4; Poisson's Ration in XY: 0.33; Thermal Expansion Coefficient in X: 0.000095000000000; Tensile Strength in X: 20684271.89
+736 RED RTV,,,1040.764711,,Tensile Strength in X: 2400065.474
+732 BLACK RTV,,,1040.764711,,Tensile Strength in X: 2300091.474
+3M 2216 B/A,0.47,0.000102,1800,0.394,Elastic Modulus: 1; Shear Modulus: 17021000; Specific Heat: 500; Tensile Strength: 18546897; :; :
+CONAP EN-11,,,2767.991252,,Elastic Modulus in X: 1500000; Poisson's Ration in XY: 0.4; Thermal Expansion Coefficient in X: 0.00022; Tensile Strength in X: 20684271.89
+DYMAX OP-4,,,2768,,Elastic Modulus in X: 5516000000; Poisson's Ration in XY: 0.3; Thermal Expansion Coefficient in X: 9.10008e-005; Tensile Strength in X: 61360000; Compressive Strength in X: 15170000
+3M DP110 A/B GREY,,,1100,,Thermal Expansion Coefficient in X: 0.000165; Thermal Conductivity in X: 0.104; Tensile Strength in X: 22000000
+NuSil SCV2-2590,0.16,0.00049,1040,,Tensile Strength: 3280000
+NuSil CV-2566,0.49,0.00049,1040,,Tensile Strength: 3280000
+Hexcel AS4C (3000 Filaments),,,1780,,Elastic Modulus in X: 2.31E+011; Tensile Strength in X: 4150000000
+Thornel Mat VMA,,,2000,,Elastic Modulus in X: 1.7E+011; Thermal Conductivity in X: 0.41; Tensile Strength in X: 1400000000
+Thornel VCB-20 Carbon Cloth,,,,,Density: 1.88E+03
+Zoltek Panex 33,,,1810,,Poisson's Ration in XY: 0.1
+Graphtek Unidirectional Pultruded,,,1490,,Poisson's Ration in XY: 0.1; Shear Modulus in XY: 65500000; Tensile Strength in X: 1379000000
+GRANITE,,,2600,,Elastic Modulus in X: 2E+010; Poisson's Ration in XY: 0.394; Shear Modulus in XY: 318900000; Thermal Expansion Coefficient in X: 3.7; Thermal Conductivity in X: 1.2; Specific Heat: 0.21; Tensile Strength in X: 10000000
+NEODYMIUM-IRON-BORON,0.24,3.4,7500,7.7,Specific Heat: 1386; Compressive Strength: 780
+C260 Brass,,19.98,8525.413055,121,Elastic Modulus: 1.103161167E+011
+Garolite G-10 Fiberglass Epoxy Laminate,,,,,Elastic modulus: 0.20E+10; Poisson's ratio: 0.394; Shear modulus: 0.3189E+09; Density: 0.102E+04; Thermal conductivity: 0.2256; Specific heat: 0.1386E+04; Tensile strength: 0.30E+08
+HOQ 310,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Infrasil 301,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Infrasil 302,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Spectrosil 2000,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 1,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 1 ArF/KrF,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 2 ArF/KrF,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+SUPRASIL 2A,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 2B,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 300,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 311,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 312,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 313,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 3001,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 3002,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 3301,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil 3302,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil CG,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+Suprasil UVL,0.17,5.1e-007,2200,1.38,Elastic Modulus: 7.25E+010; Shear Modulus: 3.0983E+010; Specific Heat: 772; Tensile Strength: 50000000; Compressive Strength: 1150000000
+OHARA L-BAL35,0.252,0.000006600000000,2820,1.126,Elastic Modulus: 1.008E+011; Shear Modulus: 4.03E+010
+OHARA L-BAL42,0.247,0.000007200000000,3050,1.028,Elastic Modulus: 8.91E+010; Shear Modulus: 3.57E+010
+OHARA L-BAL43,0.25,0.000007200000000,3050,1.028,Elastic Modulus: 9.04E+010; Shear Modulus: 3.62E+010
+OHARA L-BBH1,0.268,0.000010700000000,6570,0.653,Elastic Modulus: 6.88E+010; Shear Modulus: 2.72E+010
+OHARA L-BBH2,0.269,0.000008400000000,6740,0.64,Elastic Modulus: 7.5E+010; Shear Modulus: 2.96E+010
+OHARA L-BSL7,0.214,0.000005800000000,2380,1.169,Elastic Modulus: 7.93E+010; Shear Modulus: 3.27E+010
+OHARA L-LAH53,0.298,0.000005900000000,4490,0.862,Elastic Modulus: 1.151E+011; Shear Modulus: 4.43E+010
+OHARA L-LAH81,0.3,0.000005800000000,4530,0.86,Elastic Modulus: 1.127E+011; Shear Modulus: 4.34E+010
+OHARA L-LAH83,0.299,6.8e-006,5290,0.894,Elastic Modulus: 1.271E+011; Shear Modulus: 4.89E+010
+OHARA L-LAH84,0.303,0.000006400000000,4620,0.875,Elastic Modulus: 1.116E+011; Shear Modulus: 4.28E+010
+OHARA L-LAH85,0.296,0.000006500000000,5090,0.881,Elastic Modulus: 1.261E+011; Shear Modulus: 4.87E+010
+OHARA L-LAH85V,,6.3e-006,5250,0.819,
+OHARA L-LAH86,0.302,0.000006100000000,4900,0.838,Elastic Modulus: 1.088E+011; Shear Modulus: 4.18E+010
+OHARA L-LAH87,0.301,0.000007100000000,4340,0.92,Elastic Modulus: 1.147E+011; Shear Modulus: 4.41E+010
+OHARA L-LAH90,0.304,0.000006300000000,4650,0.839,Elastic Modulus: 1.148E+011; Shear Modulus: 4.4E+010
+OHARA L-LAH91,0.301,0.000005700000000,4290,0.841,Elastic Modulus: 1.144E+011; Shear Modulus: 4.39E+010
+OHARA L-LAL12,0.28,0.000007600000000,3480,0.925,Elastic Modulus: 1.096E+011; Shear Modulus: 4.28E+010
+OHARA L-LAL13,0.285,0.000007600000000,3690,0.887,Elastic Modulus: 1.078E+011; Shear Modulus: 4.19E+010
+OHARA L-LAM60,0.289,0.000007400000000,4200,0.876,Elastic Modulus: 1.147E+011; Shear Modulus: 4.45E+010
+OHARA L-LAM69,0.273,0.000008600000000,3240,1.114,Elastic Modulus: 1.133E+011; Shear Modulus: 4.45E+010
+OHARA L-LAM72,0.283,0.000006600000000,3890,,Elastic Modulus: 1.182E+011; Shear Modulus: 4.6E+010
+OHARA L-NBH54,0.205,0.000008100000000,3640,1.184,Elastic Modulus: 1.093E+011; Shear Modulus: 4.54E+010
+OHARA L-PHL1,0.28,0.000010500000000,3180,0.627,Elastic Modulus: 6.89E+010; Shear Modulus: 2.3E+010
+OHARA L-PHL2,0.272,0.000009900000000,3030,0.683,Elastic Modulus: 6.45E+010; Shear Modulus: 2.53E+010
+OHARA L-TIH53,,0.000007800000000,3340,1.044,
+OHARA L-TIM28,0.254,0.000010100000000,2880,1.02,Elastic Modulus: 8.45E+010; Shear Modulus: 3.37E+010
+OHARA S-BAH10,0.273,0.000006800000000,3480,0.902,Elastic Modulus: 9.62E+010; Shear Modulus: 3.78E+010
+OHARA S-BAH11,0.274,0.000006900000000,3590,0.858,Elastic Modulus: 9.29E+010; Shear Modulus: 3.65E+010
+OHARA S-BAH27,0.272,0.000006400000000,3670,0.869,Elastic Modulus: 9.36E+010; Shear Modulus: 3.68E+010
+OHARA S-BAH28,0.213,0.000006600000000,3670,0.889,Elastic Modulus: 9.11E+010; Shear Modulus: 3.75E+010
+OHARA S-BAH32,0.26,0.000006900000000,3260,0.921,Elastic Modulus: 9.04E+010; Shear Modulus: 3.59E+010
+OHARA S-BAL2,0.245,0.000009100000000,2890,0.901,Elastic Modulus: 7.27E+010; Shear Modulus: 2.92E+010
+OHARA S-BAL3,0.249,0.000009500000000,2980,0.864,Elastic Modulus: 7.19E+010; Shear Modulus: 2.88E+010
+OHARA S-BAL11,0.237,0.000006600000000,3020,0.974,Elastic Modulus: 8.19E+010; Shear Modulus: 3.31E+010
+OHARA S-BAL12,0.161,0.000008600000000,2750,0.982,Elastic Modulus: 7.1E+010; Shear Modulus: 3.06E+010
+OHARA S-BAL14,0.24,0.000008000000000,2890,0.967,Elastic Modulus: 8.11E+010; Shear Modulus: 3.27E+010
+OHARA S-BAL35,0.25,0.000005700000000,3310,0.915,Elastic Modulus: 8.32E+010; Shear Modulus: 3.33E+010
+OHARA S-BAL41,0.242,0.000007500000000,2780,1.043,Elastic Modulus: 8.9E+010; Shear Modulus: 3.58E+010
+OHARA S-BAL42,0.246,0.000006600000000,3190,0.974,Elastic Modulus: 8.47E+010; Shear Modulus: 3.4E+010
+OHARA S-BAM3,0.242,0.000008500000000,2750,0.965,Elastic Modulus: 7.71E+010; Shear Modulus: 3.11E+010
+OHARA S-BAM4,0.244,0.000008400000000,2910,0.931,Elastic Modulus: 7.62E+010; Shear Modulus: 3.06E+010
+OHARA S-BAM12,0.253,0.000007600000000,3180,0.954,Elastic Modulus: 9.04E+010; Shear Modulus: 3.61E+010
+OHARA S-BSL7,0.205,0.000007200000000,2520,1.13,Elastic Modulus: 8E+010; Shear Modulus: 3.32E+010
+OHARA S-BSM2,0.264,0.000006500000000,3530,0.802,Elastic Modulus: 7.8E+010; Shear Modulus: 3.09E+010
+OHARA S-BSM4,0.265,0.000006700000000,3570,0.836,Elastic Modulus: 8.16E+010; Shear Modulus: 3.22E+010
+OHARA S-BSM9,0.264,0.000006400000000,3220,0.916,Elastic Modulus: 8.65E+010; Shear Modulus: 3.42E+010
+OHARA S-BSM10,0.266,0.000006500000000,3600,0.822,Elastic Modulus: 8.35E+010; Shear Modulus: 3.3E+010
+OHARA S-BSM14,0.257,0.000006200000000,3430,0.891,Elastic Modulus: 8.49E+010; Shear Modulus: 3.38E+010
+OHARA S-BSM15,0.265,0.000006500000000,3600,0.845,Elastic Modulus: 8.54E+010; Shear Modulus: 3.38E+010
+OHARA S-BSM16,0.262,0.000006700000000,3590,0.835,Elastic Modulus: 8.78E+010; Shear Modulus: 3.48E+010
+OHARA S-BSM18,0.268,0.000007000000000,3690,0.815,Elastic Modulus: 8.85E+010; Shear Modulus: 3.49E+010
+OHARA S-BSM22,0.265,0.000006600000000,3240,0.916,Elastic Modulus: 8.74E+010; Shear Modulus: 3.45E+010
+OHARA S-BSM25,0.272,6.8e-006,3500,0.891,Elastic Modulus: 9.51E+010; Shear Modulus: 3.74E+010
+OHARA S-BSM28,0.258,0.000008400000000,3230,0.878,Elastic Modulus: 8.53E+010; Shear Modulus: 3.39E+010
+OHARA S-BSM71,0.273,0.000007100000000,3740,0.773,Elastic Modulus: 8.62E+010; Shear Modulus: 3.39E+010
+OHARA S-BSM81,0.271,0.000005800000000,3060,1.001,Elastic Modulus: 1.057E+011; Shear Modulus: 4.16E+010
+OHARA S-FPL51,0.299,0.000013100000000,3620,0.78,Elastic Modulus: 7.27E+010; Shear Modulus: 2.8E+010
+OHARA S-FPL53,0.303,0.000014500000000,3620,0.857,Elastic Modulus: 6.91E+010; Shear Modulus: 2.65E+010
+OHARA S-FPL55,0.302,0.000013600000000,3590,0.876,Elastic Modulus: 6.98E+010; Shear Modulus: 2.68E+010
+OHARA S-FPM2,0.287,0.000011700000000,4170,0.624,Elastic Modulus: 7.57E+010; Shear Modulus: 2.94E+010
+OHARA S-FPM3,0.291,0.000011500000000,3640,0.805,Elastic Modulus: 8.06E+010; Shear Modulus: 3.12E+010
+OHARA S-FSL5,0.227,0.000009000000000,2460,1.007,Elastic Modulus: 6.23E+010; Shear Modulus: 2.54E+010
+OHARA S-FTM16,0.238,0.000009000000000,2640,0.947,Elastic Modulus: 6.53E+010; Shear Modulus: 2.64E+010
+OHARA S-LAH51,0.297,0.000005900000000,4400,0.826,Elastic Modulus: 1.129E+011; Shear Modulus: 4.35E+010
+OHARA S-LAH52,0.297,0.000006000000000,4410,0.828,Elastic Modulus: 1.119E+011; Shear Modulus: 4.31E+010
+OHARA S-LAH53,0.299,0.000005900000000,4430,0.86,Elastic Modulus: 1.127E+011; Shear Modulus: 4.34E+010
+OHARA S-LAH55V,0.253,0.000006200000000,4730,0.853,Elastic Modulus: 1.178E+011; Shear Modulus: 4.7E+010
+OHARA S-LAH58,0.301,0.000006600000000,5520,0.827,Elastic Modulus: 1.268E+011; Shear Modulus: 4.87E+010
+OHARA S-LAH59,0.298,0.000006300000000,5070,0.816,Elastic Modulus: 1.25E+011; Shear Modulus: 4.82E+010
+OHARA S-LAH60,0.296,0.000005600000000,4430,0.872,Elastic Modulus: 1.248E+011; Shear Modulus: 4.81E+010
+OHARA S-LAH63,0.295,0.000005800000000,4340,0.849,Elastic Modulus: 1.121E+011; Shear Modulus: 4.33E+010
+OHARA S-LAH64,0.294,0.000006100000000,4300,0.856,Elastic Modulus: 1.224E+011; Shear Modulus: 4.37E+010
+OHARA S-LAH65V,0.298,0.000006000000000,4720,0.841,Elastic Modulus: 1.22E+011; Shear Modulus: 4.7E+010
+OHARA S-LAH66,0.291,0.000006200000000,4230,0.845,Elastic Modulus: 1.219E+011; Shear Modulus: 4.72E+010
+OHARA S-LAH71,0.281,0.000007700000000,4360,0.874,Elastic Modulus: 1.1E+011; Shear Modulus: 4.29E+010
+OHARA S-LAH79,0.297,0.000006000000000,5230,0.957,Elastic Modulus: 1.255E+011; Shear Modulus: 4.84E+010
+OHARA S-LAH88,0.242,0.000005700000000,4740,0.894,Elastic Modulus: 1.135E+011; Shear Modulus: 4.57E+010
+OHARA S-LAH89,0.303,6.8e-006,4700,0.861,Elastic Modulus: 1.208E+011; Shear Modulus: 4.63E+010
+OHARA S-LAH92,0.306,0.000007500000000,4870,0.873,Elastic Modulus: 1.23E+011; Shear Modulus: 4.71E+010
+OHARA S-LAL7,0.271,0.000006700000000,3730,0.825,Elastic Modulus: 9.58E+010; Shear Modulus: 3.77E+010
+OHARA S-LAL8,0.289,0.000006100000000,3790,0.894,Elastic Modulus: 1.14E+011; Shear Modulus: 4.42E+010
+OHARA S-LAL9,0.287,0.000006100000000,3630,0.895,Elastic Modulus: 1.075E+011; Shear Modulus: 4.18E+010
+OHARA S-LAL10,0.294,0.000006100000000,3860,0.85,Elastic Modulus: 1.061E+011; Shear Modulus: 4.1E+010
+OHARA S-LAL12,0.284,0.000007200000000,4010,0.717,Elastic Modulus: 9.1E+010; Shear Modulus: 3.54E+010
+OHARA S-LAL13,0.29,0.000005700000000,3600,0.893,Elastic Modulus: 1.073E+011; Shear Modulus: 4.16E+010
+OHARA S-LAL14,0.284,0.000005700000000,3700,0.908,Elastic Modulus: 1.118E+011; Shear Modulus: 4.35E+010
+OHARA S-LAL18,0.289,0.000005900000000,4180,0.871,Elastic Modulus: 1.204E+011; Shear Modulus: 4.67E+010
+OHARA S-LAL54,0.277,0.000007100000000,3820,0.761,Elastic Modulus: 8.77E+010; Shear Modulus: 3.43E+010
+OHARA S-LAL56,0.28,0.000006600000000,3850,0.778,Elastic Modulus: 9.11E+010; Shear Modulus: 3.56E+010
+OHARA S-LAL58,0.285,0.000007500000000,4030,0.728,Elastic Modulus: 9.28E+010; Shear Modulus: 3.61E+010
+OHARA S-LAL59,0.293,0.000005500000000,4040,0.863,Elastic Modulus: 1.137E+011; Shear Modulus: 4.4E+010
+OHARA S-LAL61,0.291,0.000005700000000,4040,0.861,Elastic Modulus: 1.19E+011; Shear Modulus: 4.61E+010
+OHARA S-LAM2,0.295,0.000007400000000,4320,0.698,Elastic Modulus: 9.35E+010; Shear Modulus: 3.61E+010
+OHARA S-LAM3,0.294,0.000008000000000,4250,0.655,Elastic Modulus: 8.68E+010; Shear Modulus: 3.35E+010
+OHARA S-LAM7,0.273,0.000006700000000,3810,0.871,Elastic Modulus: 9.7E+010; Shear Modulus: 3.81E+010
+OHARA S-LAM51,0.278,0.000007100000000,3790,0.867,Elastic Modulus: 1.007E+011; Shear Modulus: 3.94E+010
+OHARA S-LAM52,0.278,0.000007700000000,3950,0.801,Elastic Modulus: 9.57E+010; Shear Modulus: 3.74E+010
+OHARA S-LAM54,0.292,0.000005700000000,4080,0.891,Elastic Modulus: 1.172E+011; Shear Modulus: 4.54E+010
+OHARA S-LAM55,0.292,0.000007100000000,4220,0.741,Elastic Modulus: 9.67E+010; Shear Modulus: 3.74E+010
+OHARA S-LAM58,0.279,0.000006600000000,4000,0.771,Elastic Modulus: 9.19E+010; Shear Modulus: 3.59E+010
+OHARA S-LAM59,0.277,0.000007100000000,3770,0.847,Elastic Modulus: 1.006E+011; Shear Modulus: 3.94E+010
+OHARA S-LAM60,0.294,0.000005400000000,4060,0.845,Elastic Modulus: 1.132E+011; Shear Modulus: 4.38E+010
+OHARA S-LAM61,0.29,0.000006600000000,4100,0.732,Elastic Modulus: 9.37E+010; Shear Modulus: 3.63E+010
+OHARA S-LAM66,0.28,0.000007900000000,3550,1.062,Elastic Modulus: 1.21E+011; Shear Modulus: 4.73E+010
+OHARA S-NBH5,0.248,0.000006600000000,3020,0.965,Elastic Modulus: 9.02E+010; Shear Modulus: 3.61E+010
+OHARA S-NBH8,0.25,0.000008100000000,3190,1.052,Elastic Modulus: 1.017E+011; Shear Modulus: 4.07E+010
+OHARA S-NBH51,0.253,0.000007300000000,3290,1.124,Elastic Modulus: 1.097E+011; Shear Modulus: 4.38E+010
+OHARA S-NBH52,0.236,0.000008600000000,3090,1.115,Elastic Modulus: 9.79E+010; Shear Modulus: 3.96E+010
+OHARA S-NBH53,0.236,0.000006900000000,3280,1.117,Elastic Modulus: 1.031E+011; Shear Modulus: 4.17E+010
+OHARA S-NBH55,0.269,0.000008200000000,3680,0.994,Elastic Modulus: 1.053E+011; Shear Modulus: 4.15E+010
+OHARA S-NBH56,0.249,0.000007700000000,3490,1.12,Elastic Modulus: 1.067E+011; Shear Modulus: 4.27E+010
+OHARA S-NBH57,0.275,0.000007700000000,4000,0.988,Elastic Modulus: 1.117E+011; Shear Modulus: 4.38E+010
+OHARA S-NBM51,0.243,0.000006500000000,2930,0.904,Elastic Modulus: 8.17E+010; Shear Modulus: 3.29E+010
+OHARA S-NPH1,0.25,0.000008300000000,3290,0.882,Elastic Modulus: 8.93E+010; Shear Modulus: 3.57E+010
+OHARA S-NPH2,0.249,0.000006700000000,3580,0.969,Elastic Modulus: 9.91E+010; Shear Modulus: 3.97E+010
+OHARA S-NPH3,0.243,0.000005900000000,3590,1.007,Elastic Modulus: 1.022E+011; Shear Modulus: 4.11E+010
+OHARA S-NPH4,0.254,0.000007300000000,3610,0.925,Elastic Modulus: 9.45E+010; Shear Modulus: 3.77E+010
+OHARA S-NPH5,0.256,0.000007600000000,3710,0.877,Elastic Modulus: 9.29E+010; Shear Modulus: 3.7E+010
+OHARA S-NPH53,0.258,0.000007400000000,3780,0.83,Elastic Modulus: 8.86E+010; Shear Modulus: 3.52E+010
+OHARA S-NSL3,0.217,0.000009000000000,2480,1.026,Elastic Modulus: 7E+010; Shear Modulus: 2.88E+010
+OHARA S-NSL5,0.14,0.000008200000000,2490,1.058,Elastic Modulus: 6.91E+010; Shear Modulus: 3.03E+010
+OHARA S-NSL36,0.139,0.000008000000000,2460,1.089,Elastic Modulus: 6.4E+010; Shear Modulus: 2.81E+010
+OHARA S-PHM52,0.292,0.000010100000000,3670,0.599,Elastic Modulus: 7.15E+010; Shear Modulus: 2.77E+010
+OHARA S-PHM53,0.285,0.000009300000000,3510,0.615,Elastic Modulus: 7.08E+010; Shear Modulus: 2.75E+010
+OHARA S-TIH1,0.247,0.000008200000000,3060,1.018,Elastic Modulus: 8.84E+010; Shear Modulus: 3.55E+010
+OHARA S-TIH3,0.254,0.000008500000000,3110,1.027,Elastic Modulus: 9.08E+010; Shear Modulus: 3.62E+010
+OHARA S-TIH4,0.254,0.000008500000000,3150,1.01,Elastic Modulus: 9.19E+010; Shear Modulus: 3.67E+010
+OHARA S-TIH6,0.261,0.000008900000000,3370,1.011,Elastic Modulus: 9.31E+010; Shear Modulus: 3.69E+010
+OHARA S-TIH10,0.243,0.000008000000000,3060,1.043,Elastic Modulus: 1.024E+011; Shear Modulus: 4.12E+010
+OHARA S-TIH11,0.255,0.000008900000000,3240,1.017,Elastic Modulus: 9.12E+010; Shear Modulus: 3.63E+010
+OHARA S-TIH13,0.249,0.000008300000000,3100,1.034,Elastic Modulus: 8.99E+010; Shear Modulus: 3.6E+010
+OHARA S-TIH14,0.254,0.000008700000000,3170,1.027,Elastic Modulus: 8.88E+010; Shear Modulus: 3.54E+010
+OHARA S-TIH18,0.248,0.000008300000000,3070,1.029,Elastic Modulus: 8.91E+010; Shear Modulus: 3.57E+010
+OHARA S-TIH23,0.26,0.000008800000000,3300,0.992,Elastic Modulus: 9.22E+010; Shear Modulus: 3.66E+010
+OHARA S-TIH53,0.266,0.000008800000000,3540,1,Elastic Modulus: 9.6E+010; Shear Modulus: 3.79E+010
+OHARA S-TIH53W,0.266,0.000008800000000,3540,1,Elastic Modulus: 9.6E+010; Shear Modulus: 3.79E+010
+OHARA S-TIL1,0.222,0.000008600000000,2540,1.039,Elastic Modulus: 7.05E+010; Shear Modulus: 2.88E+010
+OHARA S-TIL2,0.22,0.000008200000000,2520,1.051,Elastic Modulus: 6.99E+010; Shear Modulus: 2.86E+010
+OHARA S-TIL6,0.146,0.000008200000000,2500,1.059,Elastic Modulus: 6.48E+010; Shear Modulus: 2.83E+010
+OHARA S-TIL25,0.22,0.000007400000000,2590,1.054,Elastic Modulus: 7.53E+010; Shear Modulus: 3.09E+010
+OHARA S-TIL26,0.222,0.000007900000000,2570,1.054,Elastic Modulus: 7.39E+010; Shear Modulus: 3.02E+010
+OHARA S-TIL27,0.217,0.000007400000000,2580,1.07,Elastic Modulus: 7.49E+010; Shear Modulus: 3.08E+010
+OHARA S-TIM1,0.234,8.1,2710,1.043,Elastic Modulus: 7.86E+010; Shear Modulus: 3.19E+010
+OHARA S-TIM2,0.23,0.000008100000000,2690,1.394,Elastic Modulus: 7.76E+010; Shear Modulus: 3.15E+010
+OHARA S-TIM3,0.229,0.000007700000000,2670,1.044,Elastic Modulus: 7.79E+010; Shear Modulus: 3.17E+010
+OHARA S-TIM5,0.233,0.000008300000000,2630,1.04,Elastic Modulus: 7.63E+010; Shear Modulus: 3.09E+010
+OHARA S-TIM8,0.231,0.000008400000000,2630,1.034,Elastic Modulus: 7.5E+010; Shear Modulus: 3.05E+010
+OHARA S-TIM22,0.238,0.000008300000000,2790,1.024,Elastic Modulus: 7.98E+010; Shear Modulus: 3.22E+010
+OHARA S-TIM25,0.236,0.000007900000000,2910,1.046,Elastic Modulus: 8.41E+010; Shear Modulus: 3.4E+010
+OHARA S-TIM27,0.236,0.000008000000000,2760,1.035,Elastic Modulus: 7.93E+010; Shear Modulus: 3.21E+010
+OHARA S-TIM28,0.242,0.000008200000000,2980,1.006,Elastic Modulus: 8.55E+010; Shear Modulus: 3.44E+010
+OHARA S-TIM35,0.238,0.000007500000000,2960,1.049,Elastic Modulus: 8.75E+010; Shear Modulus: 3.53E+010
+OHARA S-TIM39,0.246,0.000008700000000,2920,0.988,Elastic Modulus: 8.17E+010; Shear Modulus: 3.28E+010
+OHARA S-YGH51,0.291,0.000005800000000,4400,0.842,Elastic Modulus: 1.222E+011; Shear Modulus: 4.73E+010
+SCHOTT BAFN6,0.234,7.8e-006,3170,,Elastic Modulus: 7.7E+010; Shear Modulus: 3.1199E+010
+SCHOTT BK7G18,0.205,7e-006,2520,1.19,Elastic Modulus: 8.2E+010; Shear Modulus: 3.4025E+010; Specific Heat: 820
+SCHOTT F2,0.22,0.000008200000000,3599,0.78,Elastic Modulus: 5.7E+010; Shear Modulus: 2.3361E+010; Specific Heat: 557
+SCHOTT F2G12,0.222,0.000008080000000,3601,0.82,Elastic Modulus: 5.756E+010; Shear Modulus: 2.3552E+010; Specific Heat: 530
+SCHOTT F2HT,0.22,0.000008200000000,3599,0.78,Elastic Modulus: 5.7E+010; Shear Modulus: 2.3361E+010; Specific Heat: 557
+SCHOTT F5,0.22,0.000008000000000,3470,0.88,Elastic Modulus: 5.8E+010; Shear Modulus: 2.377E+010; Specific Heat: 560
+SCHOTT FK3,0.243,0.000008200000000,2270,0.9,Elastic Modulus: 4.6E+010; Shear Modulus: 1.8504E+010; Specific Heat: 840
+SCHOTT FK5HTi,0.232,0.000009200000000,2450,0.925,Elastic Modulus: 6.2E+010; Shear Modulus: 2.5162E+010; Specific Heat: 808
+SCHOTT K5G20,0.222,0.000008990000000,2593,1,Elastic Modulus: 6.8E+010; Shear Modulus: 2.7823E+010; Specific Heat: 790
+SCHOTT K10,0.19,0.000006500000000,2520,1.12,Elastic Modulus: 6.5E+010; Shear Modulus: 2.7311E+010; Specific Heat: 770
+SCHOTT K7,0.214,0.000008400000000,2530,,Elastic Modulus: 6.9E+010; Shear Modulus: 2.8418E+010
+SCHOTT KZFS12,0.279,0.000005180000000,3836,0.71,Elastic Modulus: 6.6E+010; Shear Modulus: 2.5801E+010; Specific Heat: 540
+SCHOTT KZFSN5,0.275,0.000004500000000,3460,,Elastic Modulus: 6.5E+010; Shear Modulus: 2.549E+010
+SCHOTT LAFN7,0.28,0.000005300000000,4380,0.77,Elastic Modulus: 8E+010; Shear Modulus: 3.125E+010
+SCHOTT LAK9G15,0.288,0.000006340000000,3525,0.88,Elastic Modulus: 1.0783E+011; Shear Modulus: 4.1859E+010; Specific Heat: 660
+SCHOTT LASF35,0.303,0.000007400000000,5410,0.92,Elastic Modulus: 1.32E+011; Shear Modulus: 5.0652E+010; Specific Heat: 445
+SCHOTT LF5,0.223,0.000009100000000,3220,0.866,Elastic Modulus: 5.9E+010; Shear Modulus: 2.4121E+010; Specific Heat: 657
+SCHOTT LF5G15,0.228,0.000009300000000,3221,0.86,Elastic Modulus: 5.957E+010; Shear Modulus: 2.4255E+010; Specific Heat: 600
+SCHOTT LF5G19,0.242,0.000010700000000,3300,0.75,Elastic Modulus: 5.6E+010; Shear Modulus: 2.2544E+010; Specific Heat: 580
+SCHOTT LF5HTi,0.223,0.000009100000000,3220,0.866,Elastic Modulus: 5.9E+010; Shear Modulus: 2.4121E+010; Specific Heat: 657
+SCHOTT LLF1,0.208,0.000008100000000,2940,0.99,Elastic Modulus: 6E+010; Shear Modulus: 2.4834E+010; Specific Heat: 650
+SCHOTT LLF1HTi,0.208,0.000008100000000,2940,0.99,Elastic Modulus: 6E+010; Shear Modulus: 2.4834E+010; Specific Heat: 650
+SCHOTT N-BAF3,0.226,0.000007170000000,2792,1.04,Elastic Modulus: 8.2E+010; Shear Modulus: 3.3442E+010; Specific Heat: 760
+SCHOTT N-BAF4,0.231,0.000007240000000,2889,1.02,Elastic Modulus: 8.5E+010; Shear Modulus: 3.4525E+010; Specific Heat: 740
+SCHOTT N-BAF10,0.271,0.000006180000000,3745,0.78,Elastic Modulus: 8.9E+010; Shear Modulus: 3.5012E+010; Specific Heat: 560
+SCHOTT N-BAF51,0.262,0.000008370000000,3333,0.67,Elastic Modulus: 9.1E+010; Shear Modulus: 3.6054E+010; Specific Heat: 840
+SCHOTT N-BAF52,0.237,0.000006860000000,3045,0.96,Elastic Modulus: 8.6E+010; Shear Modulus: 3.4762E+010; Specific Heat: 680
+SCHOTT N-BAK1,0.252,0.000007600000000,3190,0.795,Elastic Modulus: 7.3E+010; Shear Modulus: 2.9153E+010; Specific Heat: 687
+SCHOTT N-BAK2,0.233,0.000008000000000,2860,0.92,Elastic Modulus: 7.1E+010; Shear Modulus: 2.8792E+010; Specific Heat: 690
+SCHOTT N-BAK4,0.24,0.000006990000000,3046,0.88,Elastic Modulus: 7.7E+010; Shear Modulus: 3.1048E+010; Specific Heat: 680
+SCHOTT N-BAK4HT,0.24,0.000006990000000,3046,0.88,Elastic Modulus: 7.7E+010; Shear Modulus: 3.1048E+010; Specific Heat: 680
+SCHOTT N-BALF4,0.245,0.000006520000000,3111,0.85,Elastic Modulus: 7.7E+010; Shear Modulus: 3.0924E+010; Specific Heat: 690
+SCHOTT N-BALF5,0.214,0.000007340000000,2614,1.05,Elastic Modulus: 8.1E+010; Shear Modulus: 3.3361E+010; Specific Heat: 810
+SCHOTT N-BASF2,0.247,0.000007120000000,3151,0.94,Elastic Modulus: 8.4E+010; Shear Modulus: 3.3681E+010; Specific Heat: 660
+SCHOTT N-BASF64,0.264,0.000007300000000,3200,,Elastic Modulus: 1.05E+011; Shear Modulus: 4.1535E+010
+SCHOTT N-BK7,0.206,0.000007100000000,2510,1.114,Elastic Modulus: 8.2E+010; Shear Modulus: 3.3997E+010; Specific Heat: 858
+SCHOTT N-BK7HT,0.206,0.000007100000000,2510,1.114,Elastic Modulus: 8.2E+010; Shear Modulus: 3.3997E+010; Specific Heat: 858
+SCHOTT N-BK7HTi,0.206,0.000007100000000,2510,1.114,Elastic Modulus: 8.2E+010; Shear Modulus: 3.3997E+010; Specific Heat: 858
+SCHOTT N-BK10,0.203,0.000005800000000,2390,1.32,Elastic Modulus: 7.1E+010; Shear Modulus: 2.951E+010; Specific Heat: 810
+SCHOTT N-F2,0.228,0.000007840000000,2651,1.05,Elastic Modulus: 8.2E+010; Shear Modulus: 3.3388E+010; Specific Heat: 810
+SCHOTT N-FK5,0.232,0.000009200000000,2450,0.925,Elastic Modulus: 6.2E+010; Shear Modulus: 2.5162E+010; Specific Heat: 808
+SCHOTT N-FK51A,0.302,0.000012700000000,3675,0.76,Elastic Modulus: 7.302E+010; Shear Modulus: 2.8041E+010; Specific Heat: 690
+SCHOTT N-FK58,0.3,0.000013700000000,3646,0.76,Elastic Modulus: 7E+010; Shear Modulus: 2.6923E+010; Specific Heat: 710
+SCHOTT N-K5,0.224,0.000008200000000,2590,0.95,Elastic Modulus: 7.1E+010; Shear Modulus: 2.9003E+010; Specific Heat: 783
+SCHOTT N-KF9,0.225,0.000009610000000,2499,1.04,Elastic Modulus: 6.6E+010; Shear Modulus: 2.6939E+010; Specific Heat: 860
+SCHOTT N-KZFS2,0.266,0.000004440000000,2540,0.81,Elastic Modulus: 6.6E+010; Shear Modulus: 2.6066E+010; Specific Heat: 830
+SCHOTT N-KZFS4,0.241,0.000007300000000,3002,0.84,Elastic Modulus: 7.8E+010; Shear Modulus: 3.1426E+010; Specific Heat: 760
+SCHOTT N-KZFS4HT,0.241,0.000007300000000,3002,0.84,Elastic Modulus: 7.8E+010; Shear Modulus: 3.1426E+010; Specific Heat: 760
+SCHOTT N-KZFS5,0.243,0.000006380000000,3041,0.95,Elastic Modulus: 8.923E+010; Shear Modulus: 3.5893E+010; Specific Heat: 730
+SCHOTT N-KZFS8,0.248,0.000007770000000,3204,1.05,Elastic Modulus: 1.0272E+011; Shear Modulus: 4.1154E+010; Specific Heat: 760
+SCHOTT N-KZFS11,0.251,0.000006560000000,3196,0.81,Elastic Modulus: 7.9E+010; Shear Modulus: 3.1575E+010; Specific Heat: 690
+SCHOTT N-LAF2,0.288,0.000008060000000,4295,0.67,Elastic Modulus: 9.4E+010; Shear Modulus: 3.6491E+010; Specific Heat: 510
+SCHOTT N-LAF3,0.286,0.000007600000000,4140,,Elastic Modulus: 9.5E+010; Shear Modulus: 3.6936E+010
+SCHOTT N-LAF7,0.271,0.000007300000000,3730,0.83,Elastic Modulus: 9.6E+010; Shear Modulus: 3.7766E+010; Specific Heat: 620
+SCHOTT N-LAF21,0.295,0.000005990000000,4281,0.83,Elastic Modulus: 1.24E+011; Shear Modulus: 4.7876E+010; Specific Heat: 550
+SCHOTT N-LAF33,0.234,7.8e-006,3170,,Elastic Modulus: 1.11E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAF34,0.234,7.8e-006,3170,,Elastic Modulus: 1.23E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAF35,0.234,7.8e-006,3170,,Elastic Modulus: 1.09E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAF36,0.234,7.8e-006,3170,,Elastic Modulus: 1.1E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK7,0.234,7.8e-006,3170,,Elastic Modulus: 9E+010; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK8,0.234,7.8e-006,3170,,Elastic Modulus: 1.15E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK9,0.234,7.8e-006,3170,,Elastic Modulus: 1.1E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK10,0.234,7.8e-006,3170,,Elastic Modulus: 1.16E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK12,0.234,7.8e-006,3170,,Elastic Modulus: 8.7E+010; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK14,0.234,7.8e-006,3170,,Elastic Modulus: 1.11E+011; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK21,0.234,7.8e-006,3170,,Elastic Modulus: 9.1E+010; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK22,0.234,7.8e-006,3170,,Elastic Modulus: 9E+010; Shear Modulus: 3.1199E+010
+SCHOTT N-LAK33A,0.292,0.000005800000000,4216,0.81,Elastic Modulus: 1.21E+011; Shear Modulus: 4.6827E+010; Specific Heat: 550
+SCHOTT N-LAK33B,0.295,0.000005830000000,4221,0.89,Elastic Modulus: 1.218E+011; Shear Modulus: 4.7027E+010; Specific Heat: 560
+SCHOTT N-LAK34,0.29,0.000005810000000,4020,0.82,Elastic Modulus: 1.17E+011; Shear Modulus: 4.5349E+010; Specific Heat: 520
+SCHOTT N-LASF9,0.288,0.000007370000000,4410,0.79,Elastic Modulus: 1.0859E+011; Shear Modulus: 4.2155E+010; Specific Heat: 530
+SCHOTT N-LASF9HT,0.288,0.000007370000000,4410,0.79,Elastic Modulus: 1.0859E+011; Shear Modulus: 4.2155E+010; Specific Heat: 530
+SCHOTT N-LASF31A,0.301,0.000006740000000,5510,0.79,Elastic Modulus: 1.2551E+011; Shear Modulus: 4.8236E+010; Specific Heat: 440
+SCHOTT N-LASF40,0.304,0.000005840000000,4430,0.81,Elastic Modulus: 1.11E+011; Shear Modulus: 4.2561E+010; Specific Heat: 550
+SCHOTT N-LASF41,0.294,6.19e-006,4845,0.79,Elastic Modulus: 1.24E+011; Shear Modulus: 4.7913E+010; Specific Heat: 490
+SCHOTT N-LASF43,0.29,0.000005490000000,4260,0.81,Elastic Modulus: 1.14E+011; Shear Modulus: 4.4186E+010; Specific Heat: 550
+SCHOTT N-LASF44,0.293,0.000006210000000,4440,0.82,Elastic Modulus: 1.24E+011; Shear Modulus: 4.7951E+010; Specific Heat: 530
+SCHOTT N-LASF45,0.281,0.000007360000000,3626,1.02,Elastic Modulus: 1.16E+011; Shear Modulus: 4.5277E+010; Specific Heat: 660
+SCHOTT N-LASF45HT,0.281,0.000007360000000,3626,1.02,Elastic Modulus: 1.16E+011; Shear Modulus: 4.5277E+010; Specific Heat: 660
+SCHOTT N-LASF46A,0.298,0.000006000000000,4449,0.91,Elastic Modulus: 1.2437E+011; Shear Modulus: 4.7908E+010; Specific Heat: 540
+SCHOTT N-LASF46B,0.303,0.000005970000000,4510,0.88,Elastic Modulus: 1.2131E+011; Shear Modulus: 4.655E+010; Specific Heat: 550
+SCHOTT N-PK51,0.295,0.000012400000000,3855,0.65,Elastic Modulus: 7.4E+010; Shear Modulus: 2.8571E+010; Specific Heat: 620
+SCHOTT N-PK52A,0.298,0.000013000000000,3700,0.73,Elastic Modulus: 7.1E+010; Shear Modulus: 2.735E+010; Specific Heat: 670
+SCHOTT N-PSK3,0.226,0.000006200000000,2910,0.99,Elastic Modulus: 8.4E+010; Shear Modulus: 3.4258E+010; Specific Heat: 682
+SCHOTT N-PSK53,0.288,0.000009400000000,3600,,Elastic Modulus: 7.8E+010; Shear Modulus: 3.028E+010
+SCHOTT N-PSK53A,0.288,0.000009560000000,3568,0.64,Elastic Modulus: 7.613E+010; Shear Modulus: 2.9554E+010; Specific Heat: 590
+SCHOTT N-SF1,0.25,0.000009130000000,3025,1,Elastic Modulus: 9E+010; Shear Modulus: 3.6E+010; Specific Heat: 750
+SCHOTT N-SF2,0.231,0.000006680000000,2718,1.14,Elastic Modulus: 8.6E+010; Shear Modulus: 3.4931E+010; Specific Heat: 790
+SCHOTT N-SF4,0.256,0.000009450000000,3145,0.95,Elastic Modulus: 9E+010; Shear Modulus: 3.5828E+010; Specific Heat: 760
+SCHOTT N-SF5,0.237,0.000007940000000,2858,1,Elastic Modulus: 8.7E+010; Shear Modulus: 3.5166E+010; Specific Heat: 770
+SCHOTT N-SF6,0.262,0.000009030000000,3369,0.96,Elastic Modulus: 9.3E+010; Shear Modulus: 3.6846E+010; Specific Heat: 690
+SCHOTT N-SF6HT,0.262,0.000009030000000,3369,0.96,Elastic Modulus: 9.3E+010; Shear Modulus: 3.6846E+010; Specific Heat: 690
+SCHOTT N-SF6HTultra,0.262,0.000009030000000,3369,0.96,Elastic Modulus: 9.3E+010; Shear Modulus: 3.6846E+010; Specific Heat: 690
+SCHOTT N-SF8,0.245,0.000008560000000,2904,1.03,Elastic Modulus: 8.8E+010; Shear Modulus: 3.5341E+010; Specific Heat: 770
+SCHOTT N-SF10,0.252,0.000009400000000,3050,0.96,Elastic Modulus: 8.7E+010; Shear Modulus: 3.4744E+010; Specific Heat: 740
+SCHOTT N-SF11,0.257,0.000008520000000,3224,0.95,Elastic Modulus: 9.2E+010; Shear Modulus: 3.6595E+010; Specific Heat: 710
+SCHOTT N-SF14,0.259,0.000009410000000,3118,1,Elastic Modulus: 8.83E+010; Shear Modulus: 3.5068E+010; Specific Heat: 750
+SCHOTT N-SF15,0.243,0.000008040000000,2921,1.04,Elastic Modulus: 9E+010; Shear Modulus: 3.6203E+010; Specific Heat: 760
+SCHOTT N-SF19,0.231,0.000007200000000,2900,1.02,Elastic Modulus: 8.8E+010; Shear Modulus: 3.5743E+010; Specific Heat: 750
+SCHOTT N-SF56,0.255,0.000008700000000,3280,0.94,Elastic Modulus: 9.1E+010; Shear Modulus: 3.6255E+010; Specific Heat: 700
+SCHOTT N-SF57,0.26,0.000008460000000,3533,0.99,Elastic Modulus: 9.6E+010; Shear Modulus: 3.8095E+010; Specific Heat: 660
+SCHOTT N-SF57HT,0.26,0.000008460000000,3533,0.99,Elastic Modulus: 9.6E+010; Shear Modulus: 3.8095E+010; Specific Heat: 660
+SCHOTT N-SF57HTultra,0.26,0.000008460000000,3533,0.99,Elastic Modulus: 9.6E+010; Shear Modulus: 3.8095E+010; Specific Heat: 660
+SCHOTT N-SF64,0.245,0.000008480000000,2989,0.98,Elastic Modulus: 8.8E+010; Shear Modulus: 3.5341E+010; Specific Heat: 750
+SCHOTT N-SF66,0.259,0.000005900000000,3996,0.8,Elastic Modulus: 9.49E+010; Shear Modulus: 3.7689E+010; Specific Heat: 540
+SCHOTT N-SK2,0.263,0.000006000000000,3550,0.776,Elastic Modulus: 7.8E+010; Shear Modulus: 3.0879E+010; Specific Heat: 595
+SCHOTT N-SK2HT,0.263,0.000006000000000,3550,0.776,Elastic Modulus: 7.8E+010; Shear Modulus: 3.0879E+010; Specific Heat: 595
+SCHOTT N-SK4,0.261,0.000006460000000,3535,0.83,Elastic Modulus: 8.4E+010; Shear Modulus: 3.3307E+010; Specific Heat: 570
+SCHOTT N-SK5,0.256,0.000005500000000,3300,0.99,Elastic Modulus: 8.4E+010; Shear Modulus: 3.3439E+010; Specific Heat: 560
+SCHOTT N-SK10,0.266,0.000006830000000,3639,0.77,Elastic Modulus: 8.1E+010; Shear Modulus: 3.1991E+010; Specific Heat: 540
+SCHOTT N-SK11,0.239,0.000006500000000,3080,,Elastic Modulus: 7.9E+010; Shear Modulus: 3.1881E+010
+SCHOTT N-SK14,0.261,0.000006000000000,3440,0.851,Elastic Modulus: 8.6E+010; Shear Modulus: 3.41E+010; Specific Heat: 636
+SCHOTT N-SK15,0.265,0.000006700000000,3620,0.77,Elastic Modulus: 8.4E+010; Shear Modulus: 3.3202E+010; Specific Heat: 570
+SCHOTT N-SK16,0.264,0.000006300000000,3580,0.818,Elastic Modulus: 8.9E+010; Shear Modulus: 3.5206E+010; Specific Heat: 578
+SCHOTT N-SSK2,0.261,0.000005810000000,3525,0.81,Elastic Modulus: 8.2E+010; Shear Modulus: 3.2514E+010; Specific Heat: 580
+SCHOTT N-SSK5,0.278,0.000006800000000,3710,,Elastic Modulus: 8.8E+010; Shear Modulus: 3.4429E+010; Specific Heat: 574
+SCHOTT N-SSK8,0.251,0.000007210000000,3268,0.84,Elastic Modulus: 8.4E+010; Shear Modulus: 3.3573E+010; Specific Heat: 640
+SCHOTT N-ZK7,0.214,0.000004500000000,2490,1.042,Elastic Modulus: 7E+010; Shear Modulus: 2.883E+010; Specific Heat: 770
+SCHOTT P-BK7,0.202,0.000005990000000,2433,1.13,Elastic Modulus: 8.478E+010; Shear Modulus: 3.5266E+010; Specific Heat: 870
+SCHOTT P-LAF37,0.296,0.000006260000000,3987,0.9,Elastic Modulus: 1.1528E+011; Shear Modulus: 4.4475E+010; Specific Heat: 640
+SCHOTT P-LAK35,0.289,0.000008130000000,3848,0.72,Elastic Modulus: 1.01E+011; Shear Modulus: 3.9178E+010; Specific Heat: 630
+SCHOTT P-LASF47,0.298,0.000006040000000,4538,0.85,Elastic Modulus: 1.1956E+011; Shear Modulus: 4.6055E+010; Specific Heat: 550
+SCHOTT P-LASF50,0.298,0.000005900000000,4541,0.95,Elastic Modulus: 1.1922E+011; Shear Modulus: 4.5924E+010; Specific Heat: 560
+SCHOTT P-LASF51,0.299,0.000006010000000,4579,0.87,Elastic Modulus: 1.1904E+011; Shear Modulus: 4.582E+010; Specific Heat: 560
+SCHOTT P-PK53,0.271,0.000013300000000,2827,0.64,Elastic Modulus: 5.937E+010; Shear Modulus: 2.3356E+010; Specific Heat: 770
+SCHOTT P-SF8,0.253,0.000009410000000,2898,1.02,Elastic Modulus: 8.606E+010; Shear Modulus: 3.4342E+010; Specific Heat: 790
+SCHOTT P-SF67,0.248,0.000006230000000,4236,0.79,Elastic Modulus: 9.02E+010; Shear Modulus: 3.6138E+010; Specific Heat: 530
+SCHOTT P-SF68,0.275,0.000008430000000,6194,0.65,Elastic Modulus: 7.904E+010; Shear Modulus: 3.0996E+010; Specific Heat: 370
+SCHOTT P-SF69,0.251,0.000008990000000,2934,1.12,Elastic Modulus: 9.588E+010; Shear Modulus: 3.8321E+010; Specific Heat: 820
+SCHOTT P-SK57,0.249,0.000007230000000,3012,1.01,Elastic Modulus: 9.266E+010; Shear Modulus: 3.7094E+010; Specific Heat: 760
+SCHOTT P-SK57Q1,0.249,0.000007230000000,3012,1.01,Elastic Modulus: 9.266E+010; Shear Modulus: 3.7094E+010; Specific Heat: 760
+SCHOTT P-SK58A,0.245,0.000006820000000,2971,1.02,Elastic Modulus: 9.685E+010; Shear Modulus: 3.8896E+010; Specific Heat: 770
+SCHOTT P-SK60,0.253,0.000007060000000,3075,1.13,Elastic Modulus: 9.879E+010; Shear Modulus: 3.9421E+010; Specific Heat: 760
+SCHOTT SF1,0.232,0.000008100000000,4460,,Elastic Modulus: 5.6E+010; Shear Modulus: 2.2727E+010
+SCHOTT SF2,0.227,0.000008400000000,3860,0.735,Elastic Modulus: 5.5E+010; Shear Modulus: 2.2412E+010; Specific Heat: 498
+SCHOTT SF4,0.241,0.000008000000000,4790,0.65,Elastic Modulus: 5.6E+010; Shear Modulus: 2.2562E+010; Specific Heat: 410
+SCHOTT SF5,0.233,0.000008200000000,4070,,Elastic Modulus: 5.6E+010; Shear Modulus: 2.2709E+010
+SCHOTT SF6,0.244,0.000008100000000,5180,0.673,Elastic Modulus: 5.5E+010; Shear Modulus: 2.2106E+010; Specific Heat: 389
+SCHOTT SF6G05,0.244,7.8e-006,5200,,
+SCHOTT SF6HT,0.244,0.000008100000000,5180,0.673,Elastic Modulus: 5.5E+010; Shear Modulus: 2.2106E+010; Specific Heat: 389
+SCHOTT SF10,0.232,0.000007500000000,4280,0.741,Elastic Modulus: 6.4E+010; Shear Modulus: 2.5974E+010; Specific Heat: 465
+SCHOTT SF11,0.235,0.000006100000000,4740,0.737,Elastic Modulus: 6.6E+010; Shear Modulus: 2.6721E+010; Specific Heat: 431
+SCHOTT SF56A,0.239,0.000007900000000,4920,0.69,Elastic Modulus: 5.7E+010; Shear Modulus: 2.3002E+010; Specific Heat: 400
+SCHOTT SF57,0.248,0.000008300000000,5510,0.62,Elastic Modulus: 5.4E+010; Shear Modulus: 2.1635E+010; Specific Heat: 360
+SCHOTT SF57HT,0.248,0.000008300000000,5510,0.62,Elastic Modulus: 5.4E+010; Shear Modulus: 2.1635E+010; Specific Heat: 360
+SCHOTT SF57HTultra,0.248,0.000008300000000,5510,0.62,Elastic Modulus: 5.4E+010; Shear Modulus: 2.1635E+010; Specific Heat: 360
+SCHOTT SFL6,0.26,0.000009000000000,3370,,Elastic Modulus: 9.3E+010; Shear Modulus: 3.6905E+010
+SCHOTT SFL57,0.261,0.000008700000000,3550,0.997,Elastic Modulus: 9.7E+010; Shear Modulus: 3.8462E+010; Specific Heat: 670

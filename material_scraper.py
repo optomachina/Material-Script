@@ -53,8 +53,9 @@ def process_material_file(file_path, csvwriter):
         # Parse XML content
         doc = minidom.parseString(xml_content)
         
-        # Get the source category
-        source_category = get_source_category(os.path.basename(file_path))
+        # Get the source filename and category
+        source_file = os.path.basename(file_path)
+        source_category = get_source_category(source_file)
         
         # Find all material elements
         materials = doc.getElementsByTagName('material')
@@ -130,6 +131,7 @@ def process_material_file(file_path, csvwriter):
             # Write the row
             csvwriter.writerow([
                 material_name,
+                source_file,
                 source_category,
                 properties['Elastic Modulus'],
                 properties['Poisson\'s Ratio'],
@@ -166,7 +168,8 @@ def main():
             # Header row with new columns
             csvwriter.writerow([
                 "Glass Name",
-                "Source",
+                "Source File",
+                "Source Category",
                 "Elastic Modulus",
                 "Poisson's Ratio",
                 "Shear Modulus",

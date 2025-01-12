@@ -21,9 +21,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Output directory
-output/
-
 # IDE
 .idea/
 .vscode/
@@ -33,9 +30,6 @@ output/
 # OS
 .DS_Store
 Thumbs.db
-
-# Output files
-*.csv
 
 # Environment
 .env

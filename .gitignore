@@ -33,3 +33,13 @@ output/
 # OS
 .DS_Store
 Thumbs.db
+
+# Output files
+*.csv
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
